@@ -1,0 +1,1266 @@
+Query Typed,Profile Name,Country Iso Code,Displayed Name,Utc Timestamp,Action,Is Kids,Section,Device,Month,YearMonth
+marco polo,olu,AR,Alejandro Magno: La creación de un dios,2026-03-01 22:23:04,select,0,title_results,iPhone,3,2026-03
+marco polo,olu,AR,Marco Polo: One Hundred Eyes (Trailer),2026-03-01 22:22:48,supplemental-play,0,title_results,iPhone,3,2026-03
+marco polo,olu,AR,Marco Polo: Cien Ojos,2026-03-01 22:22:48,select,0,title_results,iPhone,3,2026-03
+marco polo,olu,AR,Marco Polo: Season 2 (Trailer),2026-03-01 22:22:33,supplemental-play,0,title_results,iPhone,3,2026-03
+marco polo,olu,AR,Marco Polo,2026-03-01 22:22:31,select,0,title_results,iPhone,3,2026-03
+scho,UMA,AR,The School for Good and Evil,2026-02-24 11:46:52,play,0,title_results,HTML 5,2,2026-02
+the play,olu,AR,The Playlist,2026-02-24 02:38:37,select,0,title_results,iPhone,2,2026-02
+schoo,UMA,ES,Work It PVS Trailer B,2026-02-22 22:30:13,supplemental-play,0,title_results,iPhone,2,2026-02
+schoo,UMA,ES,Work it: Al ritmo de los sueños,2026-02-22 22:30:12,select,0,title_results,iPhone,2,2026-02
+schoo,UMA,ES,The School for Good and Evil,2026-02-22 22:29:57,download,0,title_results,iPhone,2,2026-02
+schoo,UMA,ES,Trailer 2: The School for Good and Evil,2026-02-22 22:29:56,supplemental-play,0,title_results,iPhone,2,2026-02
+schoo,UMA,ES,The School for Good and Evil,2026-02-22 22:29:56,select,0,title_results,iPhone,2,2026-02
+,UMA,IT,The Kissing Booth_Autohook_4_16x9,2026-02-21 22:37:38,supplemental-play,0,prequery_results,iPhone,2,2026-02
+,UMA,IT,El stand de los besos,2026-02-21 22:37:38,select,0,prequery_results,iPhone,2,2026-02
+happ,UMA,IT,Happy Gilmore 2,2026-02-21 22:31:05,download,0,title_results,iPhone,2,2026-02
+happ,UMA,IT,Happy Gilmore 2,2026-02-21 22:31:03,select,0,title_results,iPhone,2,2026-02
+happ,UMA,IT,Clip 4: Happy Gilmore 2,2026-02-21 22:31:03,supplemental-play,0,title_results,iPhone,2,2026-02
+en el barro,olu,CH,"In the Mud: Season 2: ""Episode 1""",2026-02-13 16:35:56,play,0,title_results,HTML 5,2,2026-02
+parasi,olu,AR,Parasite,2026-01-30 01:54:16,select,0,title_results,iPhone,1,2026-01
+sky,olu,AR,Trailer: Skyscraper Live,2026-01-24 02:36:24,supplemental-play,0,title_results,iPhone,1,2026-01
+sky,olu,AR,Trailer: Skyscraper Live,2026-01-24 02:36:00,supplemental-play,0,title_results,iPhone,1,2026-01
+sky,olu,AR,Skyscraper Live,2026-01-24 02:35:02,add,0,title_results,iPhone,1,2026-01
+sky,olu,AR,Trailer: Skyscraper Live,2026-01-24 02:35:00,supplemental-play,0,title_results,iPhone,1,2026-01
+sky,olu,AR,Skyscraper Live,2026-01-24 02:34:59,select,0,title_results,iPhone,1,2026-01
+el irlandes,SIL,AR,El Irlandés,2026-01-17 01:16:59,select,0,title_results,iPad,1,2026-01
+martin scorsese,SIL,AR,El Irlandés,2026-01-16 23:58:04,play,0,suggestion_results,MVPD STB,1,2026-01
+martin scorsese,SIL,AR,El Irlandés,2026-01-16 23:53:28,play,0,suggestion_results,MVPD STB,1,2026-01
+martin scorsese,SIL,AR,El Irlandés,2026-01-16 23:53:08,select,0,suggestion_results,MVPD STB,1,2026-01
+martin scorsese,SIL,AR,El Irlandés: Una charla detrás de cámaras,2026-01-16 23:52:51,select,0,suggestion_results,MVPD STB,1,2026-01
+scor,SIL,AR,Martin Scorsese,2026-01-16 23:52:03,select,0,suggestion_results,MVPD STB,1,2026-01
+stand up,olu,AR,Marcello Hernández: American Boy,2026-01-15 23:14:35,play,0,title_results,iPhone,1,2026-01
+stand up,olu,AR,Marcello Hernández: American Boy,2026-01-15 23:14:31,select,0,title_results,iPhone,1,2026-01
+str,olu,AR,Stranger Things,2026-01-12 16:25:54,select,0,title_results,iPhone,1,2026-01
+bajo el ,olu,AR,En la Toscana,2026-01-12 04:30:16,add,0,suggestion_results,HTML 5,1,2026-01
+bajo el ,olu,AR,Bajo el sol de Toscana,2026-01-12 04:29:53,select,0,suggestion_results,HTML 5,1,2026-01
+,olu,AR,Clip 5: Stranger Things 5,2026-01-12 03:03:09,supplemental-play,0,prequery_results,iPhone,1,2026-01
+,olu,AR,Stranger Things,2026-01-12 03:03:08,select,0,prequery_results,iPhone,1,2026-01
+stra,olu,AR,Una última aventura: Detrás de cámaras de Stranger Things 5,2026-01-11 05:27:24,add,0,title_results,HTML 5,1,2026-01
+365,UMA,AR,The Next 365 Days,2026-01-11 01:13:05,play,0,title_results,HTML 5,1,2026-01
+tor,SIL,AR,Toro salvaje,2026-01-10 23:18:16,play,0,title_results,MVPD STB,1,2026-01
+tor,SIL,AR,Toro salvaje,2026-01-10 23:17:27,select,0,title_results,MVPD STB,1,2026-01
+365,UMA,AR,365 días más,2026-01-10 17:23:34,play,0,title_results,HTML 5,1,2026-01
+scor,SIL,AR,Buenos muchachos,2026-01-10 16:18:27,play,0,title_results,iPad,1,2026-01
+scor,SIL,AR,Buenos muchachos,2026-01-10 16:18:21,select,0,title_results,iPad,1,2026-01
+scor,olu,AR,La isla siniestra,2026-01-10 01:14:40,select,0,title_results,iPhone,1,2026-01
+scor,olu,AR,Shutter Island_hook_01_16x9_backfill,2026-01-10 01:14:40,supplemental-play,0,title_results,iPhone,1,2026-01
+is,olu,AR,La isla siniestra,2026-01-10 00:26:34,play,0,title_results,MVPD STB,1,2026-01
+is,olu,AR,La isla siniestra,2026-01-10 00:26:06,select,0,title_results,MVPD STB,1,2026-01
+scors,olu,AR,Buenos muchachos,2026-01-10 00:23:17,select,0,title_results,iPhone,1,2026-01
+scors,olu,AR,GoodFellas_hook_01_16x9_backfill,2026-01-10 00:23:17,supplemental-play,0,title_results,iPhone,1,2026-01
+scors,olu,AR,Buenos muchachos,2026-01-10 00:23:08,select,0,title_results,iPhone,1,2026-01
+scors,olu,AR,GoodFellas_hook_01_16x9_backfill,2026-01-10 00:23:08,supplemental-play,0,title_results,iPhone,1,2026-01
+scors,olu,AR,GoodFellas_hook_01_16x9_backfill,2026-01-10 00:21:34,supplemental-play,0,title_results,iPhone,1,2026-01
+scors,olu,AR,Buenos muchachos,2026-01-10 00:21:34,select,0,title_results,iPhone,1,2026-01
+ciencu,UMA,AR,365 días,2026-01-09 03:41:01,play,0,title_results,HTML 5,1,2026-01
+peop,olu,AR,Trailer: People We Meet on Vacation,2026-01-08 23:22:53,supplemental-play,0,title_results,iPhone,1,2026-01
+peop,olu,AR,People We Meet on Vacation,2026-01-08 23:22:53,select,0,title_results,iPhone,1,2026-01
+punch drunk love,SIL,AR,Los Meyerowitz: La familia no se elige (Historias nuevas y selectas),2026-01-08 00:02:22,select,0,title_results,iPad,1,2026-01
+nuestros amantes,SIL,AR,Nuestros Amantes,2026-01-01 18:36:14,play,0,title_results,iPad,1,2026-01
+nuestros amantes,SIL,AR,Nuestros Amantes,2026-01-01 18:35:50,select,0,title_results,iPad,1,2026-01
+historia de un matrimonio ,SIL,AR,Historia de un matrimonio,2025-12-22 00:44:38,play,0,title_results,iPad,12,2025-12
+historia de un matrimonio ,SIL,AR,Historia de un matrimonio,2025-12-22 00:44:34,select,0,title_results,iPad,12,2025-12
+21 g,olu,AR,Elefante blanco,2025-12-21 23:51:58,play,0,title_results,MVPD STB,12,2025-12
+21 g,olu,AR,Elefante blanco,2025-12-21 22:04:28,play,0,title_results,MVPD STB,12,2025-12
+21 g,olu,AR,Elefante blanco,2025-12-21 22:03:00,select,0,title_results,MVPD STB,12,2025-12
+españa,olu,AR,Amores Perros_hook_02_16x9,2025-12-19 23:50:33,supplemental-play,0,title_results,iPhone,12,2025-12
+españa,olu,AR,Amores perros,2025-12-19 23:50:32,select,0,title_results,iPhone,12,2025-12
+german,olu,AR,Dark (Trailer),2025-12-12 02:51:35,supplemental-play,0,title_results,HTML 5,12,2025-12
+german,olu,AR,German,2025-12-12 02:48:07,select,0,suggestion_results,HTML 5,12,2025-12
+german,olu,AR,German-Language Movies,2025-12-12 02:48:03,select,0,suggestion_results,HTML 5,12,2025-12
+home,olu,AR,El libro de la vida,2025-12-12 02:39:20,play,0,title_results,HTML 5,12,2025-12
+viena,olu,AR,Viena,2025-12-10 17:35:34,select,0,suggestion_results,HTML 5,12,2025-12
+el li,olu,AR,El libro de la vida,2025-12-08 09:35:06,play,0,title_results,HTML 5,12,2025-12
+amores,olu,AR,Amores perros,2025-12-07 22:36:09,play,0,title_results,HTML 5,12,2025-12
+amores,olu,AR,Amores perros,2025-12-07 02:39:27,play,0,title_results,HTML 5,12,2025-12
+amore,SIL,AR,Amores perros,2025-12-07 00:36:22,play,0,title_results,MVPD STB,12,2025-12
+amore,SIL,AR,Amores perros,2025-12-07 00:35:55,select,0,title_results,MVPD STB,12,2025-12
+almodovar,olu,AR,Amores perros,2025-12-07 00:34:47,select,0,title_results,iPhone,12,2025-12
+almodovar,olu,AR,Amores Perros_hook_03_16x9,2025-12-07 00:34:47,supplemental-play,0,title_results,iPhone,12,2025-12
+almodovar,olu,AR,Nine Queens_hook_01,2025-12-07 00:34:37,supplemental-play,0,title_results,iPhone,12,2025-12
+almodovar,olu,AR,Nueve Reinas,2025-12-07 00:34:36,select,0,title_results,iPhone,12,2025-12
+almodovar,olu,AR,The Room Next Door_hook_05_16x9,2025-12-07 00:34:20,supplemental-play,0,title_results,iPhone,12,2025-12
+almodovar,olu,AR,La habitación de al lado,2025-12-07 00:34:20,select,0,title_results,iPhone,12,2025-12
+peliculas españolas,olu,AR,El silencio del pantano,2025-12-07 00:33:56,select,0,title_results,iPhone,12,2025-12
+peliculas españolas,olu,AR,Trailer: The Silence of the Marsh,2025-12-07 00:33:56,supplemental-play,0,title_results,iPhone,12,2025-12
+josh ,olu,AR,Josh O'Connor,2025-12-02 01:44:07,select,0,suggestion_results,HTML 5,12,2025-12
+bla,olu,AR,Black Mirror,2025-11-29 16:18:18,select,0,title_results,iPhone,11,2025-11
+la diplo,olu,AR,Season 3 Teaser: The Diplomat,2025-10-29 14:08:47,supplemental-play,0,title_results,iPhone,10,2025-10
+la diplo,olu,AR,La diplomática,2025-10-29 14:08:46,select,0,title_results,iPhone,10,2025-10
+shes the man,UMA,AR,Bailando,2025-10-24 01:38:12,play,0,title_results,HTML 5,10,2025-10
+enola holmes,olu,AR,Enola Holmes 2,2025-10-09 00:34:07,play,0,title_results,HTML 5,10,2025-10
+gil,olu,AR,"Gilmore Girls: Season 3: ""Haunted Leg""",2025-09-17 03:47:26,play,0,title_results,iPhone,9,2025-09
+gil,olu,AR,Las chicas Gilmore,2025-09-17 03:47:22,select,0,title_results,iPhone,9,2025-09
+gil,olu,AR,"Gilmore Girls: Season 2: ""Sadie, Sadie...""",2025-09-16 22:42:22,play,0,title_results,HTML 5,9,2025-09
+div,UMA,AR,"Community Squad: Season 1: ""Urban Guard""",2025-09-16 01:37:43,play,0,title_results,HTML 5,9,2025-09
+di,olu,AR,Reclutas,2025-09-09 12:26:37,add,0,title_results,HTML 5,9,2025-09
+di,olu,AR,División Palermo,2025-09-09 01:10:25,play,0,title_results,HTML 5,9,2025-09
+divi,olu,AR,División Palermo,2025-09-06 18:37:58,play,0,title_results,HTML 5,9,2025-09
+hayden christensen,olu,AR,El escuadrón del crimen,2025-09-06 02:06:04,add,0,title_results,HTML 5,9,2025-09
+love death,olu,AR,"Love, Death & Robots: Volume 1: ""THE WITNESS""",2025-09-04 00:53:00,play,0,title_results,iPhone,9,2025-09
+love death,olu,AR,"Volume 4 Clip 5: Love, Death & Robots",2025-09-04 00:52:52,supplemental-play,0,title_results,iPhone,9,2025-09
+love death,olu,AR,"Love, Death & Robots",2025-09-04 00:52:52,select,0,title_results,iPhone,9,2025-09
+love death,olu,AR,Civilization VI,2025-09-04 00:52:51,select,0,title_results,iPhone,9,2025-09
+love death,olu,AR,"Love, Death & Robots: Volume 3: ""Jibaro""",2025-09-04 00:51:33,play,0,title_results,iPhone,9,2025-09
+love death,olu,AR,"Volume 4 Clip 5: Love, Death & Robots",2025-09-04 00:34:50,supplemental-play,0,title_results,iPhone,9,2025-09
+love de,olu,AR,"Love, Death & Robots",2025-09-04 00:34:49,select,0,title_results,iPhone,9,2025-09
+merli,olu,AR,Season 2 Part 2 Clip 2: Wednesday,2025-09-03 18:22:12,supplemental-play,0,title_results,iPhone,9,2025-09
+merli,olu,AR,Merlina,2025-09-03 18:22:12,select,0,title_results,iPhone,9,2025-09
+vi,SIL,AR,Viudas,2025-08-24 20:36:28,play,0,title_results,MVPD STB,8,2025-08
+vi,SIL,AR,Viudas,2025-08-24 20:36:23,select,0,title_results,MVPD STB,8,2025-08
+vi,SIL,AR,Vivir dos veces,2025-08-24 18:29:09,play,0,title_results,MVPD STB,8,2025-08
+vi,SIL,AR,Vivir dos veces,2025-08-24 18:28:58,select,0,title_results,MVPD STB,8,2025-08
+vivir dos ,SIL,AR,Vivir dos veces,2025-08-24 17:56:27,play,0,title_results,iPad,8,2025-08
+vivir dos ,SIL,AR,Vivir dos veces,2025-08-24 17:56:20,select,0,title_results,iPad,8,2025-08
+b,UMA,AR,Bridgerton,2025-08-19 23:37:52,play,0,title_results,HTML 5,8,2025-08
+b,UMA,AR,Bridgerton,2025-08-19 21:11:31,play,0,title_results,HTML 5,8,2025-08
+beauti,olu,AR,A Beautiful Mind,2025-08-15 14:48:46,play,0,title_results,HTML 5,8,2025-08
+arge,olu,AR,Argentina,2025-08-11 00:11:02,select,0,suggestion_results,HTML 5,8,2025-08
+gossip,UMA,AR,Gossip Girl,2025-07-30 20:23:15,play,0,title_results,HTML 5,7,2025-07
+go,olu,US,Gossip Girl: Season 1_hook_primary_16x9,2025-07-29 04:18:49,supplemental-play,0,title_results,iPhone,7,2025-07
+go,olu,US,Gossip Girl,2025-07-29 04:18:49,select,0,title_results,iPhone,7,2025-07
+gosi,UMA,US,Gossip Girl: Season 1_hook_primary_16x9,2025-07-28 03:04:49,supplemental-play,0,title_results,iPhone,7,2025-07
+gosi,UMA,US,Chica Indiscreta,2025-07-28 03:04:49,select,0,title_results,iPhone,7,2025-07
+egip,olu,US,The Prince of Egypt_hook_primary_backfill,2025-07-26 04:21:29,supplemental-play,0,title_results,iPhone,7,2025-07
+egip,olu,US,El príncipe de Egipto,2025-07-26 04:21:12,play,0,title_results,iPhone,7,2025-07
+egip,olu,US,El príncipe de Egipto,2025-07-26 04:21:10,select,0,title_results,iPhone,7,2025-07
+bee,UMA,US,Grown Ups,2025-07-26 04:02:31,select,0,title_results,iPhone,7,2025-07
+bee,UMA,US,The Prince of Egypt_hook_primary_backfill,2025-07-26 04:01:58,supplemental-play,0,title_results,iPhone,7,2025-07
+bee,UMA,US,The Prince of Egypt,2025-07-26 04:01:57,select,0,title_results,iPhone,7,2025-07
+bee,UMA,US,,2025-07-26 04:01:46,select,0,title_results,iPhone,7,2025-07
+bee,UMA,US,Beetlejuice Beetlejuice_hook_primary_16x9,2025-07-26 04:01:04,supplemental-play,0,title_results,iPhone,7,2025-07
+bee,UMA,US,"Beetlejuice, el superfantasma",2025-07-26 04:01:03,select,0,title_results,iPhone,7,2025-07
+bee,UMA,US,Bee Movie - CLM 4,2025-07-26 04:00:30,supplemental-play,0,title_results,iPhone,7,2025-07
+bee,UMA,US,Bee Movie: La historia de una abeja,2025-07-26 04:00:29,select,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Bee Movie - CLM 10,2025-07-25 04:21:34,supplemental-play,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Bee Movie,2025-07-25 04:21:31,select,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Bee Movie - CLM 10,2025-07-25 04:20:37,supplemental-play,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Bee Movie - CLM 10,2025-07-25 04:06:05,supplemental-play,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Bee Movie - CLM 10,2025-07-25 04:05:06,supplemental-play,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Bee Movie,2025-07-25 04:05:06,select,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,A Tale Dark & Grimm: Season 1 - CLM 13,2025-07-25 04:03:47,supplemental-play,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Cuentos lúgubres del reino de Grimm,2025-07-25 04:03:46,select,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,World of Winx,2025-07-25 04:03:42,select,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Ever After High,2025-07-25 04:03:32,select,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Wallace y Gromit: La venganza se sirve con plumas,2025-07-25 04:03:12,select,0,title_results,iPhone,7,2025-07
+peliculas infantiles,olu,US,Robot salvaje,2025-07-25 04:02:52,select,0,title_results,iPhone,7,2025-07
+shrek,olu,US,Lo que el agua se llevó,2025-07-24 04:16:42,play,0,title_results,iPhone,7,2025-07
+shrek,olu,US,Lo que el agua se llevó,2025-07-24 04:16:39,select,0,title_results,iPhone,7,2025-07
+shrek,olu,US,Flushed Away_hook_primary_16x9,2025-07-24 04:16:31,supplemental-play,0,title_results,iPhone,7,2025-07
+cart,SIL,AR,La última carta de amor,2025-07-23 02:00:54,select,0,title_results,MVPD STB,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:28,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:26,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:26,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:25,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:24,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:24,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:23,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:22,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:22,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:21,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:20,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:20,download,0,title_results,iPad,7,2025-07
+sex,UMA,AR,,2025-07-20 17:25:17,select,0,title_results,iPad,7,2025-07
+shes the man,UMA,AR,Sydney White,2025-07-19 23:48:53,select,0,title_results,iPhone,7,2025-07
+shes the man,UMA,AR,Sydney White_hook_primary_backfill,2025-07-19 23:48:53,supplemental-play,0,title_results,iPhone,7,2025-07
+step up,UMA,AR,Siente el ritmo,2025-07-19 23:48:14,select,0,title_results,iPhone,7,2025-07
+step up,UMA,AR,Feel the Beat_PVS_MEGA,2025-07-19 23:48:14,supplemental-play,0,title_results,iPhone,7,2025-07
+woody allen,SIL,AR,Un día lluvioso en Nueva York,2025-07-14 01:59:58,play,0,title_results,iPad,7,2025-07
+woody allen,SIL,AR,Un día lluvioso en Nueva York,2025-07-14 01:59:48,select,0,title_results,iPad,7,2025-07
+xo,UMA,AR,"XO, Kitty",2025-07-12 15:10:46,play,0,title_results,HTML 5,7,2025-07
+fove,UMA,AR,Por siempre,2025-07-10 02:23:04,play,0,title_results,HTML 5,7,2025-07
+fove,UMA,AR,Por siempre,2025-07-09 21:33:07,play,0,title_results,HTML 5,7,2025-07
+she,UMA,AR,,2025-07-04 15:53:19,play,0,title_results,HTML 5,7,2025-07
+she,UMA,AR,"My Life With the Walter Boys: Season 1: ""Welcome to Colorado""",2025-07-04 00:34:46,play,0,title_results,HTML 5,7,2025-07
+,olu,AR,"Geek Girl: Season 1: ""Chapter 1""",2025-07-01 02:45:28,play,0,prequery_results,iPhone,7,2025-07
+,olu,AR,Season 1 Trailer: Geek Girl,2025-07-01 02:45:24,supplemental-play,0,prequery_results,iPhone,7,2025-07
+,olu,AR,Geek Girl,2025-07-01 02:45:24,select,0,prequery_results,iPhone,7,2025-07
+sofia,olu,AR,Mi lista de deseos,2025-07-01 02:44:17,select,0,title_results,iPhone,7,2025-07
+house of card,UMA,AR,House of Cards: Season 6_shortpreview_noStacks,2025-06-15 22:51:35,supplemental-play,0,title_results,iPhone,6,2025-06
+house of card,UMA,AR,House of Cards,2025-06-15 22:51:34,select,0,title_results,iPhone,6,2025-06
+microsoft,SIL,AR,,2025-06-14 18:50:32,play,0,title_results,iPad,6,2025-06
+microsoft,SIL,AR,Bill Gates bajo la lupa,2025-06-13 22:39:01,play,0,title_results,iPad,6,2025-06
+microsoft,SIL,AR,Bill Gates bajo la lupa,2025-06-13 22:38:50,select,0,title_results,iPad,6,2025-06
+coding,olu,AR,"What's Next? The Future with Bill Gates: Season 1: ""What Can AI Do for Us/to Us""",2025-06-06 03:32:54,play,0,title_results,iPhone,6,2025-06
+coding,olu,AR,¿Y ahora qué? El futuro según Bill Gates,2025-06-06 03:32:45,select,0,title_results,iPhone,6,2025-06
+coding,olu,AR,Season 1 High Context Clip 4: What's Next? The Future with Bill Gates,2025-06-06 03:32:45,supplemental-play,0,title_results,iPhone,6,2025-06
+coding,olu,AR,Trailer: The Speed Cubers,2025-06-06 03:32:26,supplemental-play,0,title_results,iPhone,6,2025-06
+coding,olu,AR,Los speedcubers,2025-06-06 03:32:26,select,0,title_results,iPhone,6,2025-06
+coding,olu,AR,Upper Bound Clip 15: A Trip to Infinity,2025-06-06 03:19:09,supplemental-play,0,title_results,iPhone,6,2025-06
+coding,olu,AR,Un viaje al infinito,2025-06-06 03:19:08,select,0,title_results,iPhone,6,2025-06
+ladyb,olu,AR,Mundo Miraculous: Shanghái - La leyenda de Ladydragon,2025-05-13 01:37:46,play,0,title_results,HTML 5,5,2025-05
+el eterna,olu,AR,"The Eternaut: Season 1: ""Step Into the Sun""",2025-05-07 12:51:56,play,0,title_results,HTML 5,5,2025-05
+,SIL,AR,"The Eternaut: Season 1: ""Cold Tomato Juice""",2025-05-07 03:09:11,play,0,prequery_results,iPad,5,2025-05
+,SIL,AR,El Eternauta,2025-05-07 03:09:05,select,0,prequery_results,iPad,5,2025-05
+philo,olu,AR,"Cunk On Earth: Season 1: ""Faith/Off""",2025-04-26 19:50:56,play,0,title_results,HTML 5,4,2025-04
+philo,olu,AR,"Cunk On Earth: Season 1: ""The Renaissance Will Not Be Televised""",2025-04-26 19:50:47,play,0,title_results,HTML 5,4,2025-04
+ameli,olu,AR,Amélie,2025-04-26 19:44:12,select,0,suggestion_results,HTML 5,4,2025-04
+philom,olu,AR,"Cunk On Earth: Season 1: ""In the Beginnings""",2025-04-23 21:24:35,play,0,title_results,iPad,4,2025-04
+philom,olu,AR,La Tierra según Philomena Cunk,2025-04-23 21:24:32,select,0,title_results,iPad,4,2025-04
+,olu,AR,Season 1 Moment of High Emotion Clip: Cunk On Earth,2025-04-23 21:05:33,supplemental-play,0,prequery_results,iPhone,4,2025-04
+,olu,AR,Season 1 Moment of High Emotion Clip: Cunk On Earth,2025-04-23 21:04:53,supplemental-play,0,prequery_results,iPhone,4,2025-04
+,olu,AR,Season 1 Moment of High Emotion Clip: Cunk On Earth,2025-04-23 21:02:35,supplemental-play,0,prequery_results,iPhone,4,2025-04
+,olu,AR,La Tierra según Philomena Cunk,2025-04-23 21:02:35,select,0,prequery_results,iPhone,4,2025-04
+kevin can ,olu,AR,La Tierra según Philomena Cunk,2025-04-23 17:38:32,add,0,title_results,iPhone,4,2025-04
+kevin can ,olu,AR,Season 1 Moment of High Emotion Clip: Cunk On Earth,2025-04-23 17:38:26,supplemental-play,0,title_results,iPhone,4,2025-04
+kevin can ,olu,AR,La Tierra según Philomena Cunk,2025-04-23 17:38:25,select,0,title_results,iPhone,4,2025-04
+,SIL,AR,"Emily in Paris: Season 3: ""I Have Two Lovers""",2025-04-19 03:22:43,play,0,prequery_results,iPad,4,2025-04
+,SIL,AR,,2025-04-19 03:20:19,select,0,prequery_results,iPad,4,2025-04
+,SIL,AR,Borgen,2025-04-19 03:19:53,select,0,prequery_results,iPad,4,2025-04
+,SIL,AR,Detrás de sus ojos,2025-04-19 03:19:21,select,0,prequery_results,iPad,4,2025-04
+,SIL,AR,Cómo cambiar tu mente,2025-04-19 03:19:21,select,0,prequery_results,iPad,4,2025-04
+,SIL,AR,Detrás de sus ojos,2025-04-19 03:18:48,select,0,prequery_results,iPad,4,2025-04
+,SIL,AR,Mi lista de deseos,2025-04-19 03:17:26,select,0,prequery_results,iPad,4,2025-04
+,SIL,AR,Si la vida te da mandarinas...,2025-04-19 03:14:34,select,0,prequery_results,iPad,4,2025-04
+,SIL,AR,Amores prohibidos,2025-04-19 03:14:32,select,0,prequery_results,iPad,4,2025-04
+habia una vez en hollywood,SIL,AR,Despicable Me,2025-04-19 03:12:48,select,0,title_results,iPad,4,2025-04
+habia una vez en hollywood,SIL,AR,Black Mirror,2025-04-19 03:10:01,select,0,title_results,iPad,4,2025-04
+,olu,AR,"Stranger Things 4: ""Chapter Nine: The Piggyback""",2025-04-18 20:07:05,play,0,prequery_results,iPad,4,2025-04
+,olu,AR,Stranger Things,2025-04-18 20:06:55,select,0,prequery_results,iPad,4,2025-04
+wes ander,olu,AR,La teoría del todo,2025-04-18 20:06:09,select,0,title_results,iPad,4,2025-04
+wes ander,olu,AR,Un viaje al infinito,2025-04-18 20:05:42,select,0,title_results,iPad,4,2025-04
+wes ander,olu,AR,La maravillosa historia de Henry Sugar,2025-04-18 15:30:58,select,0,title_results,iPad,4,2025-04
+stran,olu,AR,"Stranger Things 4: ""Chapter Eight: Papa""",2025-04-18 03:13:30,play,0,title_results,iPhone,4,2025-04
+stran,olu,AR,"Stranger Things 4: ""Chapter Seven: The Massacre at Hawkins Lab""",2025-04-17 22:31:17,play,0,title_results,iPhone,4,2025-04
+stran,olu,AR,Genre Specific Moment Clip: Stranger Things 4 Volume 2,2025-04-17 22:31:14,supplemental-play,0,title_results,iPhone,4,2025-04
+stran,olu,AR,"Stranger Things 4: ""Chapter One: The Hellfire Club""",2025-04-17 20:09:10,play,0,title_results,iPhone,4,2025-04
+stran,olu,AR,Genre Specific Moment Clip: Stranger Things 4 Volume 2,2025-04-17 20:09:02,supplemental-play,0,title_results,iPhone,4,2025-04
+stran,olu,AR,Stranger Things,2025-04-17 20:09:01,select,0,title_results,iPhone,4,2025-04
+stran,olu,AR,Detrás del telón de Stranger Things: The First Shadow,2025-04-17 20:08:57,select,0,title_results,iPhone,4,2025-04
+never,UMA,AR,Season 2 Direct Lift Hook 5: Never Have I Ever,2025-04-06 12:23:44,supplemental-play,0,title_results,iPhone,4,2025-04
+never,UMA,AR,Never Have I Ever,2025-04-06 12:23:43,select,0,title_results,iPhone,4,2025-04
+ba,UMA,AR,Baby,2025-04-03 00:29:40,play,0,title_results,HTML 5,4,2025-04
+blac,olu,AR,Season 6,2025-04-01 21:46:53,supplemental-play,0,title_results,iPhone,4,2025-04
+blac,olu,AR,Black Mirror,2025-04-01 21:46:52,select,0,title_results,iPhone,4,2025-04
+adolescencia,SIL,AR,"Adolescence: Limited Series: ""Episode 2""",2025-03-29 02:50:40,play,0,suggestion_results,MVPD STB,3,2025-03
+adolescencia,SIL,AR,Adolescencia,2025-03-29 02:49:50,select,0,suggestion_results,MVPD STB,3,2025-03
+ado,SIL,AR,,2025-03-29 02:49:42,select,0,suggestion_results,MVPD STB,3,2025-03
+adole,olu,AR,"Adolescence: Limited Series: ""Episode 1""",2025-03-25 00:42:07,play,0,title_results,iPad,3,2025-03
+adole,olu,AR,Adolescencia,2025-03-25 00:41:58,select,0,title_results,iPad,3,2025-03
+,SIL,AR,La habitación de al lado,2025-03-17 01:46:32,play,0,prequery_results,iPad,3,2025-03
+,SIL,AR,La habitación de al lado,2025-03-17 01:46:28,select,0,prequery_results,iPad,3,2025-03
+set it,UMA,AR,¡No estás invitada a mi bat mitzvá!,2025-03-15 01:02:34,play,0,title_results,HTML 5,3,2025-03
+set it,UMA,AR,Set It Up: El plan imperfecto,2025-03-15 00:52:51,play,0,title_results,HTML 5,3,2025-03
+apple sider,olu,AR,Vinagre de manzana,2025-03-10 22:32:03,add,0,title_results,iPhone,3,2025-03
+apple sider,olu,AR,Vinagre de manzana,2025-03-10 22:31:58,select,0,title_results,iPhone,3,2025-03
+apple sider,olu,AR,Limited Series Enhanced Clip 3: Apple Cider Vinegar,2025-03-10 22:31:58,supplemental-play,0,title_results,iPhone,3,2025-03
+sean baker,SIL,AR,La princesa Mononoke,2025-03-08 02:31:31,play,0,title_results,iPad,3,2025-03
+sean baker,SIL,AR,La princesa Mononoke,2025-03-08 02:31:17,select,0,title_results,iPad,3,2025-03
+sean baker,SIL,AR,El poder del perro,2025-03-08 02:31:05,select,0,title_results,iPad,3,2025-03
+sean baker,SIL,AR,Lazzaro feliz,2025-03-08 02:30:15,select,0,title_results,iPad,3,2025-03
+sean baker,SIL,AR,La única mujer de la orquesta,2025-03-08 02:29:58,select,0,title_results,iPad,3,2025-03
+sean baker,SIL,AR,La vida que querías,2025-03-08 02:29:32,select,0,title_results,iPad,3,2025-03
+nueva juf,UMA,AR,Una nueva jugada,2025-03-06 00:27:08,play,0,title_results,HTML 5,3,2025-03
+brad,SIL,AR,Ad Astra: Hacia las estrellas,2025-03-02 00:25:31,play,0,title_results,MVPD STB,3,2025-03
+brad,SIL,AR,Ad Astra: Hacia las estrellas,2025-03-02 00:24:45,select,0,title_results,MVPD STB,3,2025-03
+,SIL,AR,"Valeria: Season 1: ""Mr Champi""",2025-02-23 19:10:46,play,0,prequery_results,iPad,2,2025-02
+,SIL,AR,"Valeria: Season 1: ""The Pond""",2025-02-23 19:08:47,play,0,prequery_results,iPad,2,2025-02
+,SIL,AR,"Valeria: Season 4: ""Emotional Responsibility""",2025-02-23 19:07:33,play,0,prequery_results,iPad,2,2025-02
+,SIL,AR,Valeria,2025-02-23 19:00:30,select,0,prequery_results,iPad,2,2025-02
+,SIL,AR,La 31.ª edición de los Premios del Sindicato de Actores de EE. UU.,2025-02-23 19:00:20,select,0,prequery_results,iPad,2,2025-02
+ester,olu,AR,Perdidos en la noche,2025-02-23 18:40:11,select,0,title_results,iPhone,2,2025-02
+ester,olu,AR,Season 1 Teaser: Bandidos,2025-02-23 18:40:05,supplemental-play,0,title_results,iPhone,2,2025-02
+ester,olu,AR,Bandidos,2025-02-23 18:40:04,select,0,title_results,iPhone,2,2025-02
+ester,olu,AR,Season 1 Bonus Video 1: Someone Has to Die,2025-02-23 18:39:56,supplemental-play,0,title_results,iPhone,2,2025-02
+ester,olu,AR,Alguien tiene que morir,2025-02-23 18:39:56,select,0,title_results,iPhone,2,2025-02
+lo mejor esta por venir,SIL,AR,La vida que querías,2025-02-16 00:59:31,select,0,title_results,MVPD STB,2,2025-02
+alexa,UMA,PA,"Alexa & Katie: Part 1: ""Bad Hair Day""",2025-02-02 20:57:39,play,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:46,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:46,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:45,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:45,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:03,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:03,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:02,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:02,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:01,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:29:00,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:28:59,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:28:58,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:28:58,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:28:57,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:28:56,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:28:55,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:28:55,download,0,title_results,iPad,2,2025-02
+alexa,UMA,DO,,2025-02-02 00:28:49,select,0,title_results,iPad,2,2025-02
+the offic,UMA,DO,,2025-02-01 23:13:47,select,0,title_results,iPad,2,2025-02
+,UMA,DO,A todos los chicos: Para siempre,2025-01-26 22:47:57,play,0,prequery_results,iPad,1,2025-01
+,UMA,DO,A todos los chicos: Para siempre,2025-01-26 22:47:52,select,0,prequery_results,iPad,1,2025-01
+borgen,SIL,AR,"Borgen: Season 3: ""Episode 1""",2025-01-20 01:27:28,play,0,title_results,iPad,1,2025-01
+borgen,SIL,AR,Borgen,2025-01-20 01:27:08,select,0,title_results,iPad,1,2025-01
+,SIL,AR,Nuevo orden,2025-01-20 01:26:36,select,0,prequery_results,iPad,1,2025-01
+dulce mag,UMA,AR,To All the Boys I’ve Loved Before,2025-01-20 00:53:03,play,0,title_results,HTML 5,1,2025-01
+michel franco,SIL,AR,Nuevo orden,2025-01-19 21:10:07,play,0,title_results,iPad,1,2025-01
+michel franco,SIL,AR,Nuevo orden,2025-01-19 19:43:42,play,0,title_results,iPad,1,2025-01
+michel franco,SIL,AR,Nuevo orden,2025-01-19 19:43:07,select,0,title_results,iPad,1,2025-01
+michel franco,SIL,AR,ROMA,2025-01-19 19:42:54,select,0,title_results,iPad,1,2025-01
+dulce mag,UMA,AR,Dulces magnolias,2025-01-19 18:21:34,play,0,title_results,HTML 5,1,2025-01
+comedia,olu,AR,,2025-01-11 00:16:26,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,"Single, Married, Widowed, Divorced_hook_03_16x9",2025-01-11 00:16:15,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,"Single, Married, Widowed, Divorced",2025-01-11 00:16:15,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,The Life List,2025-01-11 00:16:05,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,The To Do List_hook_03_16x9,2025-01-11 00:15:39,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,The To Do List_hook_03_16x9,2025-01-11 00:15:18,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,The To Do List,2025-01-11 00:14:59,add,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,The To Do List_hook_03_16x9,2025-01-11 00:14:57,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,The To Do List,2025-01-11 00:14:57,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,To All the Boys: P.S. I Still Love You,2025-01-11 00:14:36,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,Trailer: To All the Boys: P.S. I Still Love You,2025-01-11 00:14:36,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,We Have a Ghost,2025-01-11 00:14:26,add,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,Trailer: We Have a Ghost,2025-01-11 00:14:20,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,We Have a Ghost,2025-01-11 00:14:19,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,Hancock,2025-01-11 00:13:25,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,Hancock_hook_01_16x9_backfill,2025-01-11 00:13:25,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,MILF,2025-01-11 00:11:49,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,MILF (FR)_hook_05_16x9,2025-01-11 00:11:49,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,Isn't It Romantic (Trailer),2025-01-11 00:11:40,supplemental-play,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,¿No es romántico?,2025-01-11 00:11:39,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,Supercool,2025-01-11 00:11:05,add,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,Supercool,2025-01-11 00:11:03,select,0,title_results,iPhone,1,2025-01
+comedia,olu,AR,Superbad_hook_primary_16x9_backfill,2025-01-11 00:11:03,supplemental-play,0,title_results,iPhone,1,2025-01
+y,UMA,AR,¿...Y dónde están las rubias?,2024-12-31 00:21:21,play,0,title_results,MVPD STB,12,2024-12
+y,UMA,AR,¿...Y dónde están las rubias?,2024-12-31 00:12:54,select,0,title_results,MVPD STB,12,2024-12
+comedias,olu,AR,Hermanas,2024-12-31 00:07:07,select,0,title_results,iPhone,12,2024-12
+comedias,olu,AR,Sisters_hook_primary_16x9,2024-12-31 00:07:07,supplemental-play,0,title_results,iPhone,12,2024-12
+,olu,AR,El juego del calamar,2024-12-30 17:36:06,select,0,prequery_results,iPhone,12,2024-12
+,olu,AR,"Squid Game: Season 2: ""Bread and Lottery""",2024-12-30 17:26:47,play,0,prequery_results,iPhone,12,2024-12
+,olu,AR,Season 2 Clip 3: Squid Game,2024-12-30 17:25:03,supplemental-play,0,prequery_results,iPhone,12,2024-12
+,olu,AR,El juego del calamar,2024-12-30 17:25:02,select,0,prequery_results,iPhone,12,2024-12
+ba,SIL,AR,La ballena,2024-12-25 01:06:15,play,0,title_results,MVPD STB,12,2024-12
+ba,SIL,AR,La ballena,2024-12-25 01:05:40,select,0,title_results,MVPD STB,12,2024-12
+,olu,AR,Season 1 Genre Specific Clip: Human Resources,2024-12-15 11:23:26,supplemental-play,0,prequery_results,iPhone,12,2024-12
+c,SIL,AR,"One Hundred Years of Solitude: Part 1: ""A Daguerreotype of God""",2024-12-15 01:38:13,play,0,title_results,MVPD STB,12,2024-12
+c,SIL,AR,Cien años de soledad,2024-12-15 01:38:06,select,0,title_results,MVPD STB,12,2024-12
+,olu,AR,Recursos Humanos,2024-12-14 23:15:04,play,0,prequery_results,iPhone,12,2024-12
+,olu,AR,Recursos Humanos,2024-12-14 23:07:20,select,0,prequery_results,iPhone,12,2024-12
+the pro,olu,AR,El descanso,2024-12-14 20:03:29,play,0,title_results,iPhone,12,2024-12
+the pro,olu,AR,The Holiday_hook_primary_16x9,2024-12-14 20:03:11,supplemental-play,0,title_results,iPhone,12,2024-12
+the pro,olu,AR,El descanso,2024-12-14 20:03:11,select,0,title_results,iPhone,12,2024-12
+the pro,olu,AR,The Holiday_hook_primary_16x9,2024-12-14 20:02:19,supplemental-play,0,title_results,iPhone,12,2024-12
+the pro,olu,AR,El descanso,2024-12-14 20:02:18,select,0,title_results,iPhone,12,2024-12
+merlina,UMA,AR,"Wednesday: Season 1: ""Wednesday's Child Is Full of Woe""",2024-12-08 23:39:54,play,0,title_results,HTML 5,12,2024-12
+como entrenar,UMA,AR,Cómo entrenar a tu dragón 2,2024-12-08 23:38:30,play,0,title_results,HTML 5,12,2024-12
+como entrenar,UMA,AR,,2024-12-08 23:38:16,play,0,title_results,HTML 5,12,2024-12
+music,olu,AR,Rompan todo_CLIFFHANGERS,2024-12-08 23:29:39,supplemental-play,0,title_results,iPhone,12,2024-12
+music,olu,AR,Rompan todo: La historia del rock en América Latina,2024-12-08 23:29:39,select,0,title_results,iPhone,12,2024-12
+como entrenar,UMA,AR,Cómo entrenar a tu dragón 2,2024-12-08 23:24:13,play,0,title_results,HTML 5,12,2024-12
+big,olu,AR,Season 1 Main Character Intro Clip: Exploding Kittens,2024-12-08 23:14:40,supplemental-play,0,title_results,iPhone,12,2024-12
+big,olu,AR,,2024-12-08 23:14:40,select,0,title_results,iPhone,12,2024-12
+big,olu,AR,,2024-12-08 22:44:22,select,0,title_results,iPhone,12,2024-12
+big,olu,AR,"Big Mouth: Season 3: ""Cellsea""",2024-12-08 08:35:22,play,0,title_results,iPhone,12,2024-12
+big,olu,AR,Big Mouth,2024-12-08 08:35:08,select,0,title_results,iPhone,12,2024-12
+isla de tentaciones ,UMA,AR,Jugando con fuego: Latino,2024-12-07 19:34:51,select,0,title_results,iPhone,12,2024-12
+karda,UMA,AR,Season 1 Clip 7: Making it in Marbella,2024-12-07 19:30:23,supplemental-play,0,title_results,iPhone,12,2024-12
+karda,UMA,AR,Marbella es un lujo,2024-12-07 19:30:22,select,0,title_results,iPhone,12,2024-12
+karda,UMA,AR,Marbella es un lujo,2024-12-07 19:30:10,select,0,title_results,iPhone,12,2024-12
+karda,UMA,AR,Season 1 Clip 7: Making it in Marbella,2024-12-07 19:30:10,supplemental-play,0,title_results,iPhone,12,2024-12
+karda,UMA,AR,Keeping Up with the Kardashians,2024-12-07 19:27:34,select,0,title_results,iPhone,12,2024-12
+love is blind,UMA,AR,Season 1 Clip 7: Love is Blind: Argentina,2024-12-07 19:26:10,supplemental-play,0,title_results,iPhone,12,2024-12
+love is blind,UMA,AR,Season 1 Clip 7: Love is Blind: Argentina,2024-12-07 19:25:50,supplemental-play,0,title_results,iPhone,12,2024-12
+love is blind,UMA,AR,Love Is Blind: Argentina,2024-12-07 19:25:49,select,0,title_results,iPhone,12,2024-12
+love is blind,UMA,AR,Season 7 Clip 8: Love Is Blind,2024-12-07 19:25:20,supplemental-play,0,title_results,iPhone,12,2024-12
+love is blind,UMA,AR,Love Is Blind,2024-12-07 19:25:19,select,0,title_results,iPhone,12,2024-12
+bígaro,UMA,AR,Big Mouth,2024-12-02 13:00:27,play,0,title_results,HTML 5,12,2024-12
+big,UMA,AR,Big Mouth,2024-12-01 13:30:42,play,0,title_results,HTML 5,12,2024-12
+sideline,UMA,AR,Un amor para recordar,2024-11-30 16:17:11,select,0,title_results,iPhone,11,2024-11
+bi,UMA,AR,"Big Mouth: Season 1: ""Ejaculation""",2024-11-28 21:11:21,play,0,title_results,HTML 5,11,2024-11
+con,olu,AR,Trailer: Buy Now: The Shopping Conspiracy,2024-11-24 20:11:59,supplemental-play,0,title_results,iPhone,11,2024-11
+con,olu,AR,Trailer: Buy Now: The Shopping Conspiracy,2024-11-24 19:59:44,supplemental-play,0,title_results,iPhone,11,2024-11
+con,olu,AR,Compra ahora: La conspiración consumista,2024-11-24 19:59:43,select,0,title_results,iPhone,11,2024-11
+consu,olu,AR,Grace and Grit_hook_04_16x9,2024-11-21 02:00:30,supplemental-play,0,title_results,iPhone,11,2024-11
+consu,olu,AR,Gracia y coraje,2024-11-21 02:00:29,select,0,title_results,iPhone,11,2024-11
+consu,olu,AR,Compra ahora: La conspiración consumista,2024-11-21 01:56:33,add,0,title_results,iPhone,11,2024-11
+consu,olu,AR,Clip 5: Buy Now: The Shopping Conspiracy,2024-11-21 01:56:28,supplemental-play,0,title_results,iPhone,11,2024-11
+consu,olu,AR,Compra ahora: La conspiración consumista,2024-11-21 01:56:27,select,0,title_results,iPhone,11,2024-11
+love is ,olu,AR,Love Is Blind: Argentina,2024-11-18 16:59:52,select,0,title_results,iPhone,11,2024-11
+love is ,olu,AR,Season 1 Teaser: Love is Blind: Argentina,2024-11-18 16:59:52,supplemental-play,0,title_results,iPhone,11,2024-11
+docu,olu,AR,Upper Bound Clip 7: Inside the Mind of a Cat,2024-11-17 21:51:14,supplemental-play,0,title_results,iPhone,11,2024-11
+docu,olu,AR,En la mente de un gato,2024-11-17 21:51:13,select,0,title_results,iPhone,11,2024-11
+docu,olu,AR,Informative Clip 2: Hack Your Health: The Secrets of Your Gut,2024-11-17 21:33:30,supplemental-play,0,title_results,iPhone,11,2024-11
+docu,olu,AR,Descifra tu salud: Los secretos del intestino,2024-11-17 21:33:29,select,0,title_results,iPhone,11,2024-11
+the diplo,olu,AR,Season 2 Teaser: The Diplomat,2024-11-09 05:17:39,supplemental-play,0,title_results,iPhone,11,2024-11
+the diplo,olu,AR,The Diplomat,2024-11-09 05:17:33,select,0,title_results,iPhone,11,2024-11
+cab,olu,AR,Los caballeros,2024-10-18 00:39:08,play,0,title_results,HTML 5,10,2024-10
+cuestio,olu,AR,Cuestión de tiempo,2024-10-11 01:10:07,play,0,title_results,iPhone,10,2024-10
+cuestio,olu,AR,Cuestión de tiempo,2024-10-11 01:10:05,select,0,title_results,iPhone,10,2024-10
+ha,olu,AR,"Heartstopper: Season 3: ""Together""",2024-10-10 23:41:57,play,0,title_results,iPhone,10,2024-10
+ha,olu,AR,Heartstopper,2024-10-10 23:41:38,select,0,title_results,iPhone,10,2024-10
+el ,olu,AR,El asombroso circo digital,2024-10-06 00:20:46,select,0,title_results,iPhone,10,2024-10
+el ,olu,AR,El hoyo 2,2024-10-05 21:22:37,play,0,title_results,iPhone,10,2024-10
+el ,olu,AR,El hoyo 2,2024-10-05 21:22:33,select,0,title_results,iPhone,10,2024-10
+open ai,UMA,AR,¿Y ahora qué? El futuro según Bill Gates,2024-09-26 18:21:13,play,0,title_results,iPhone,9,2024-09
+open ai,UMA,AR,¿Y ahora qué? El futuro según Bill Gates,2024-09-26 18:21:10,select,0,title_results,iPhone,9,2024-09
+open ai,UMA,AR,"What's Next? The Future with Bill Gates: Season 1: ""What Can AI Do for Us/to Us""",2024-09-26 18:19:35,play,0,title_results,iPhone,9,2024-09
+open ai,UMA,AR,¿Y ahora qué? El futuro según Bill Gates,2024-09-26 18:19:31,select,0,title_results,iPhone,9,2024-09
+bla,UMA,AR,"Black Mirror: Season 2: ""Be Right Back""",2024-09-22 19:53:37,play,0,title_results,HTML 5,9,2024-09
+el hoyo,olu,AR,El hoyo,2024-09-16 01:52:13,play,0,title_results,iPad,9,2024-09
+el hoyo,olu,AR,El hoyo,2024-09-16 01:52:00,select,0,title_results,iPad,9,2024-09
+ug,olu,AR,Uglies,2024-09-14 23:24:45,play,0,title_results,iPhone,9,2024-09
+ug,olu,AR,Uglies,2024-09-14 23:24:41,select,0,title_results,iPhone,9,2024-09
+the exchange,UMA,AR,The Exchange,2024-08-31 12:55:54,select,0,title_results,iPhone,8,2024-08
+go,olu,AR,Gossip Girl,2024-08-31 09:38:03,select,0,title_results,iPhone,8,2024-08
+cis,SIL,AR,La princesa encantada,2024-08-30 19:32:58,select,0,title_results,iPad,8,2024-08
+valer,olu,AR,Sexo/Vida,2024-08-17 03:04:55,play,0,title_results,iPhone,8,2024-08
+valer,olu,AR,Sexo/Vida,2024-08-17 03:04:52,select,0,title_results,iPhone,8,2024-08
+valer,olu,AR,Sexo/Vida,2024-08-17 03:02:53,select,0,title_results,iPhone,8,2024-08
+valer,olu,AR,Valeria,2024-08-17 03:02:31,select,0,title_results,iPhone,8,2024-08
+sex,SIL,AR,Sex Education,2024-08-17 00:23:03,play,0,title_results,MVPD STB,8,2024-08
+sex,SIL,AR,Sex Education,2024-08-17 00:22:49,select,0,title_results,MVPD STB,8,2024-08
+gossi,olu,AR,Gossip Girl,2024-08-11 20:42:58,select,0,title_results,iPhone,8,2024-08
+memoria infinita,SIL,AR,"Si algo me pasa, los quiero",2024-08-11 13:51:50,select,0,title_results,iPad,8,2024-08
+memoria infinita,SIL,AR,The Eternal Memory,2024-08-11 13:50:53,add,0,title_results,iPad,8,2024-08
+memoria infinita,SIL,AR,La memoria infinita,2024-08-11 13:50:45,select,0,title_results,iPad,8,2024-08
+ken loach,SIL,AR,Sexo en la ciudad,2024-08-11 13:50:04,select,0,title_results,iPad,8,2024-08
+ken loach,SIL,AR,El pianista,2024-08-11 13:49:49,select,0,title_results,iPad,8,2024-08
+derry,UMA,AR,"Derry Girls: Season 1: ""Episode 1""",2024-08-09 00:10:52,play,0,title_results,HTML 5,8,2024-08
+too hot t,UMA,AR,Too Hot to Handle,2024-08-03 04:09:10,play,0,title_results,HTML 5,8,2024-08
+too hot t,UMA,AR,"Too Hot to Handle: Season 6: ""Sealed With a Chris""",2024-08-02 23:54:29,play,0,title_results,HTML 5,8,2024-08
+sim,olu,AR,Simone Biles vuelve a volar,2024-08-02 03:44:36,play,0,title_results,iPhone,8,2024-08
+sim,olu,AR,"Simone Biles Rising: Season 1: ""Write me down in history...""",2024-08-02 02:17:49,play,0,title_results,iPhone,8,2024-08
+sim,olu,AR,Simone Biles vuelve a volar,2024-08-02 02:17:22,select,0,title_results,iPhone,8,2024-08
+ser,olu,AR,Boy Erased,2024-08-02 02:17:05,select,0,title_results,iPhone,8,2024-08
+ser,olu,AR,,2024-08-02 02:16:37,select,0,title_results,iPhone,8,2024-08
+ser,olu,AR,El decamerón,2024-08-01 16:42:43,play,0,title_results,iPhone,8,2024-08
+ser,olu,AR,El decamerón,2024-08-01 16:42:41,select,0,title_results,iPhone,8,2024-08
+big,UMA,AR,Big Mouth,2024-08-01 07:09:26,select,0,title_results,iPhone,8,2024-08
+big,UMA,AR,Big Mouth,2024-08-01 07:09:23,select,0,title_results,iPhone,8,2024-08
+eli,olu,AR,"Elite: Season 8: ""Alumni""",2024-07-29 01:26:11,play,0,title_results,iPhone,7,2024-07
+eli,olu,AR,"Elite: Season 7: ""At Rock Bottom""",2024-07-28 23:41:49,play,0,title_results,iPhone,7,2024-07
+eli,olu,AR,"Elite: Season 7: ""Las Encinas""",2024-07-28 21:13:39,play,0,title_results,iPhone,7,2024-07
+eli,olu,AR,"Elite: Season 6: ""Separation""",2024-07-28 21:13:02,play,0,title_results,iPhone,7,2024-07
+eli,olu,AR,"Elite: Season 7: ""Las Encinas""",2024-07-28 20:53:21,play,0,title_results,iPhone,7,2024-07
+eli,olu,AR,Élite,2024-07-28 20:53:15,select,0,title_results,iPhone,7,2024-07
+eli,olu,AR,"Elite: Season 6: ""Separation""",2024-07-28 20:52:51,play,0,title_results,iPhone,7,2024-07
+eli,olu,AR,"Elite: Season 7: ""Las Encinas""",2024-07-28 20:52:33,play,0,title_results,iPhone,7,2024-07
+eli,olu,AR,Élite,2024-07-28 20:52:09,select,0,title_results,iPhone,7,2024-07
+out,UMA,AR,Outer Banks,2024-07-25 04:02:25,select,0,title_results,iPhone,7,2024-07
+el hoyo,UMA,AR,El hoyo,2024-07-25 01:51:31,select,0,title_results,iPhone,7,2024-07
+s,olu,AR,,2024-07-23 00:30:24,select,0,title_results,iPhone,7,2024-07
+s,olu,AR,Sexo en la ciudad,2024-07-22 23:54:39,play,0,title_results,iPhone,7,2024-07
+s,olu,AR,Sexo en la ciudad,2024-07-22 18:55:42,play,0,title_results,iPhone,7,2024-07
+s,olu,AR,Sexo en la ciudad,2024-07-22 18:53:02,select,0,title_results,iPhone,7,2024-07
+emi,olu,AR,Emily en París,2024-07-22 18:16:24,select,0,title_results,iPhone,7,2024-07
+solo amigos,olu,AR,Una buena receta,2024-07-13 00:26:08,play,0,title_results,iPhone,7,2024-07
+solo amigos,olu,AR,Una buena receta,2024-07-13 00:26:00,select,0,title_results,iPhone,7,2024-07
+solo amigos,olu,AR,Piensa como hombre,2024-07-13 00:25:28,select,0,title_results,iPhone,7,2024-07
+solo amigos,olu,AR,Te quiero como amigo,2024-07-13 00:24:48,select,0,title_results,iPhone,7,2024-07
+miss charlot,SIL,AR,La reina Charlotte: Una historia de Bridgerton,2024-07-05 23:25:42,select,0,title_results,iPad,7,2024-07
+comedia romantica,olu,AR,Travesuras de una princesa,2024-07-03 17:32:46,play,0,title_results,HTML 5,7,2024-07
+aston,olu,AR,Ashton Kutcher,2024-07-03 17:28:11,select,0,suggestion_results,HTML 5,7,2024-07
+adam br,olu,AR,Sin límites,2024-07-02 20:04:38,play,0,title_results,iPhone,7,2024-07
+adam br,olu,AR,Sin límites,2024-07-02 20:04:35,select,0,title_results,iPhone,7,2024-07
+culpa mia,olu,AR,Ni una más,2024-07-01 19:06:36,select,0,title_results,iPhone,7,2024-07
+27,SIL,AR,,2024-07-01 01:30:24,select,0,title_results,iPad,7,2024-07
+bridg,SIL,AR,Bridgerton,2024-06-22 15:36:11,select,0,title_results,iPad,6,2024-06
+perdida,SIL,AR,Perdida,2024-06-21 02:05:50,select,0,title_results,iPad,6,2024-06
+perdida,SIL,AR,Perdida,2024-06-20 22:27:11,select,0,title_results,iPad,6,2024-06
+se,olu,AR,"Sex and the City: Season 1: ""Sex and the City""",2024-06-15 23:46:38,play,0,title_results,iPhone,6,2024-06
+se,olu,AR,,2024-06-15 23:46:30,select,0,title_results,iPhone,6,2024-06
+josh o connor,olu,AR,,2024-06-14 20:38:05,select,0,title_results,iPhone,6,2024-06
+josh o connor,olu,AR,Close,2024-06-14 20:37:51,select,0,title_results,iPhone,6,2024-06
+emma,olu,AR,The Favourite,2024-06-14 20:37:23,select,0,title_results,iPhone,6,2024-06
+quee,olu,AR,Queen Charlotte: A Bridgerton Story,2024-06-11 16:34:10,play,0,title_results,HTML 5,6,2024-06
+zonas azules,SIL,AR,,2024-06-11 01:48:36,select,0,title_results,iPad,6,2024-06
+,olu,AR,"Bridgerton: Season 1: ""Diamond of the First Water""",2024-06-09 01:57:00,play,0,prequery_results,iPad,6,2024-06
+,olu,AR,,2024-06-09 01:56:57,select,0,prequery_results,iPad,6,2024-06
+ni una,UMA,AR,Gossip Girl,2024-06-02 22:10:55,play,0,title_results,HTML 5,6,2024-06
+ni una,UMA,AR,Ni una más,2024-06-02 21:13:21,play,0,title_results,HTML 5,6,2024-06
+hot,olu,AR,The Girl Next Door,2024-06-02 00:33:03,select,0,title_results,iPad,6,2024-06
+black,UMA,AR,"Black Mirror: Season 5: ""Rachel, Jack and Ashley Too""",2024-05-28 23:29:56,play,0,title_results,HTML 5,5,2024-05
+bri,olu,AR,"Bridgerton: Season 3: ""Old Friends""",2024-05-28 03:45:59,play,0,title_results,iPhone,5,2024-05
+bri,olu,AR,"Bridgerton: Season 3: ""Out of the Shadows""",2024-05-28 01:58:42,play,0,title_results,iPhone,5,2024-05
+bri,olu,AR,,2024-05-28 01:58:32,select,0,title_results,iPhone,5,2024-05
+sex an,olu,AR,Sex and the City,2024-05-23 19:33:25,select,0,title_results,iPhone,5,2024-05
+black ,UMA,AR,Black Mirror,2024-05-22 15:39:32,select,0,title_results,iPhone,5,2024-05
+br,olu,AR,Bridgerton,2024-05-19 07:12:56,play,0,title_results,iPhone,5,2024-05
+br,olu,AR,Bridgerton,2024-05-19 07:12:52,select,0,title_results,iPhone,5,2024-05
+the ,olu,AR,The Office (EE. UU.),2024-05-16 13:41:14,play,0,title_results,HTML 5,5,2024-05
+bri,olu,AR,Bridgerton,2024-05-16 04:09:13,select,0,title_results,iPhone,5,2024-05
+red light,olu,AR,Red Lights,2024-05-15 17:39:29,select,0,suggestion_results,HTML 5,5,2024-05
+the tea,olu,AR,The Tearsmith,2024-05-08 04:09:59,play,0,title_results,iPhone,5,2024-05
+the tea,olu,AR,The Tearsmith,2024-05-08 04:09:06,select,0,title_results,iPhone,5,2024-05
+series,olu,AR,Sexo en la ciudad,2024-05-05 03:08:00,play,0,title_results,HTML 5,5,2024-05
+bri,olu,AR,Bridgerton,2024-04-29 04:24:52,select,0,title_results,iPhone,4,2024-04
+bri,olu,AR,Bridgerton,2024-04-29 04:20:49,select,0,title_results,iPhone,4,2024-04
+,olu,AR,El caso Asunta,2024-04-29 04:20:38,select,0,prequery_results,iPhone,4,2024-04
+dont,SIL,AR,Don't Look Up,2024-04-27 23:12:36,play,0,title_results,MVPD STB,4,2024-04
+dont,SIL,AR,Don't Look Up,2024-04-27 23:12:09,select,0,title_results,MVPD STB,4,2024-04
+dont,SIL,AR,Don't Look Up,2024-04-27 23:09:44,play,0,title_results,MVPD STB,4,2024-04
+dont,SIL,AR,Don't Look Up,2024-04-27 23:08:52,select,0,title_results,MVPD STB,4,2024-04
+moder,olu,AR,"Crashing: Season 1: ""Episode 1""",2024-04-24 21:32:24,play,0,title_results,iPhone,4,2024-04
+moder,olu,AR,Crashing,2024-04-24 21:32:22,select,0,title_results,iPhone,4,2024-04
+moder,olu,AR,Derry Girls,2024-04-24 21:32:08,select,0,title_results,iPhone,4,2024-04
+moder,olu,AR,El método Kominsky,2024-04-24 21:31:57,select,0,title_results,iPhone,4,2024-04
+bla,olu,AR,"Black Mirror: Season 6: ""Beyond the Sea""",2024-04-21 20:26:37,play,0,title_results,iPhone,4,2024-04
+bla,olu,AR,Black Mirror,2024-04-21 20:26:19,select,0,title_results,iPhone,4,2024-04
+what,olu,AR,What Jennifer Did,2024-04-15 05:06:28,add,0,title_results,iPhone,4,2024-04
+what,olu,AR,What Jennifer Did,2024-04-15 05:06:16,select,0,title_results,iPhone,4,2024-04
+ren,olu,AR,,2024-04-15 02:23:48,play,0,title_results,MVPD STB,4,2024-04
+ren,olu,AR,,2024-04-15 02:23:31,select,0,title_results,MVPD STB,4,2024-04
+el problema de los tres c,olu,AR,El problema de los 3 cuerpos,2024-03-25 17:43:59,add,0,title_results,HTML 5,3,2024-03
+black,UMA,AR,"Black Mirror: Season 1: ""Fifteen Million Merits""",2024-03-21 22:05:49,play,0,title_results,HTML 5,3,2024-03
+derry,olu,AR,"Derry Girls: Season 2: ""Episode 2""",2024-03-20 19:17:17,play,0,title_results,HTML 5,3,2024-03
+sex and,olu,AR,Sexo en la ciudad,2024-03-19 04:03:24,select,0,title_results,iPhone,3,2024-03
+oscars,olu,AR,Netflix 2024 Oscars Collection,2024-03-15 01:15:30,select,0,suggestion_results,HTML 5,3,2024-03
+emma,olu,AR,Emma Stone,2024-03-15 01:14:31,select,0,suggestion_results,HTML 5,3,2024-03
+sex,olu,AR,365 días más,2024-03-14 16:19:02,select,0,title_results,iPhone,3,2024-03
+sex,olu,AR,Sexo en la ciudad,2024-03-14 16:18:36,select,0,title_results,iPhone,3,2024-03
+sex,olu,AR,Sexo/Vida,2024-03-14 16:17:50,select,0,title_results,iPhone,3,2024-03
+bandi,olu,AR,Lost in the Night,2024-03-14 16:16:38,select,0,title_results,iPhone,3,2024-03
+bandi,olu,AR,Bandidos,2024-03-14 16:14:52,select,0,title_results,iPhone,3,2024-03
+oscar,olu,AR,Nyad,2024-03-13 18:51:14,play,0,title_results,HTML 5,3,2024-03
+redes sociales,olu,AR,Nada es privado,2024-03-08 11:25:25,play,0,title_results,HTML 5,3,2024-03
+redes sociales,olu,AR,Nada es privado,2024-03-08 11:10:20,play,0,title_results,HTML 5,3,2024-03
+the end,olu,AR,"​Carol & The End of The World: Limited Series: ""Pilot""",2024-03-03 16:43:31,play,0,title_results,HTML 5,3,2024-03
+emil,olu,AR,Los juegos del destino,2024-03-01 16:26:11,select,0,title_results,iPhone,3,2024-03
+emil,olu,AR,A través de mi ventana,2024-03-01 16:26:09,select,0,title_results,iPhone,3,2024-03
+emil,olu,AR,A través de mi ventana,2024-03-01 16:26:02,select,0,title_results,iPhone,3,2024-03
+emil,olu,AR,A través de mi ventana,2024-03-01 16:25:58,select,0,title_results,iPhone,3,2024-03
+emil,olu,AR,Emily en París,2024-03-01 16:25:43,select,0,title_results,iPhone,3,2024-03
+emil,olu,AR,8 Mile: Calle de las ilusiones,2024-03-01 16:25:35,select,0,title_results,iPhone,3,2024-03
+emil,olu,AR,Emily en París,2024-03-01 16:24:51,select,0,title_results,iPhone,3,2024-03
+thriller,olu,AR,Fin de semana en Croacia,2024-02-25 01:20:38,play,0,suggestion_results,HTML 5,2,2024-02
+thriller,olu,AR,Psychological Thriller Movies,2024-02-25 01:20:07,select,0,suggestion_results,HTML 5,2,2024-02
+anne,UMA,AR,Anne with an E,2024-02-23 14:18:29,select,0,title_results,iPhone,2,2024-02
+gam,UMA,IT,Gambito de dama,2024-02-20 19:33:52,select,0,title_results,iPhone,2,2024-02
+one day,UMA,ES,One Day,2024-02-19 22:59:45,select,0,title_results,iPhone,2,2024-02
+step,UMA,ES,Step Up. Bailando,2024-02-19 22:17:24,select,0,title_results,iPhone,2,2024-02
+2000,olu,AR,La boda de mi mejor amigo,2024-02-12 01:33:25,play,0,suggestion_results,Smart TV,2,2024-02
+2000,olu,AR,La boda de mi mejor amigo,2024-02-12 00:13:18,play,0,suggestion_results,Smart TV,2,2024-02
+2000,olu,AR,La boda de mi mejor amigo,2024-02-11 23:02:30,play,0,suggestion_results,Smart TV,2,2024-02
+2000,olu,AR,La boda de mi mejor amigo,2024-02-11 23:02:26,select,0,suggestion_results,Smart TV,2,2024-02
+2000,olu,AR,Travesuras de una princesa,2024-02-11 23:02:03,play,0,suggestion_results,Smart TV,2,2024-02
+2000,olu,AR,Travesuras de una princesa,2024-02-11 23:02:01,select,0,suggestion_results,Smart TV,2,2024-02
+2000,olu,AR,Los ángeles de Charlie,2024-02-11 23:01:39,select,0,suggestion_results,Smart TV,2,2024-02
+2000,olu,AR,The 2000s,2024-02-11 23:01:15,select,0,suggestion_results,Smart TV,2,2024-02
+os,olu,AR,Maestro,2024-02-11 01:37:34,play,0,suggestion_results,Smart TV,2,2024-02
+os,olu,AR,Maestro,2024-02-11 00:06:42,play,0,suggestion_results,Smart TV,2,2024-02
+os,olu,AR,Maestro,2024-02-10 23:03:15,play,0,suggestion_results,Smart TV,2,2024-02
+os,olu,AR,Maestro,2024-02-10 22:54:47,play,0,suggestion_results,Smart TV,2,2024-02
+os,olu,AR,Maestro,2024-02-10 22:54:40,select,0,suggestion_results,Smart TV,2,2024-02
+os,olu,AR,Oscar,2024-02-10 22:45:23,select,0,suggestion_results,Smart TV,2,2024-02
+oscar,olu,AR,Maestro,2024-02-10 20:53:50,select,0,suggestion_results,iPhone,2,2024-02
+oscar,olu,AR,Nimona,2024-02-10 14:45:45,select,0,title_results,iPhone,2,2024-02
+oscar,olu,AR,El después,2024-02-10 14:45:31,select,0,title_results,iPhone,2,2024-02
+oscar,olu,AR,Rustin,2024-02-10 14:45:25,select,0,title_results,iPhone,2,2024-02
+oscar,olu,AR,Rustin,2024-02-10 14:45:21,select,0,title_results,iPhone,2,2024-02
+oscar,olu,AR,Nyad,2024-02-10 14:45:11,select,0,title_results,iPhone,2,2024-02
+io capitano,olu,AR,Maestro,2024-02-10 14:44:05,select,0,title_results,iPhone,2,2024-02
+full,UMA,DE,Full Out,2024-02-07 22:00:22,play,0,title_results,iPhone,2,2024-02
+full,UMA,DE,Full Out,2024-02-07 22:00:18,select,0,title_results,iPhone,2,2024-02
+mean,olu,AR,Mean Girls,2024-02-01 21:55:39,select,0,title_results,iPhone,2,2024-02
+the ter,olu,IT,Atrápame si puedes,2024-01-31 18:29:33,select,0,title_results,iPhone,1,2024-01
+luis,olu,ES,Luis Miguel - La serie,2024-01-29 21:54:49,select,0,title_results,iPhone,1,2024-01
+luis,olu,ES,Luis Miguel - La serie,2024-01-29 21:54:22,select,0,title_results,iPhone,1,2024-01
+lo que,UMA,DE,Lo que una chica quiere,2024-01-26 22:52:05,play,0,title_results,iPhone,1,2024-01
+lo que,UMA,DE,Lo que una chica quiere,2024-01-26 22:51:59,select,0,title_results,iPhone,1,2024-01
+v,UMA,AR,Vikingos,2024-01-17 23:24:38,play,0,title_results,MVPD STB,1,2024-01
+v,UMA,AR,Vikingos,2024-01-17 23:23:48,play,0,title_results,MVPD STB,1,2024-01
+v,UMA,AR,Vikingos,2024-01-17 23:23:34,select,0,title_results,MVPD STB,1,2024-01
+bl,olu,IT,Black Mirror,2024-01-16 20:52:30,play,0,title_results,Smart TV,1,2024-01
+bl,olu,IT,Black Mirror,2024-01-16 20:52:11,select,0,title_results,Smart TV,1,2024-01
+ameri,olu,IT,"Black Mirror: Season 3: ""Hated in the Nation""",2024-01-16 20:44:09,play,0,title_results,iPhone,1,2024-01
+ameri,olu,IT,Black Mirror,2024-01-16 20:41:35,select,0,title_results,iPhone,1,2024-01
+ameri,olu,IT,Black Mirror,2024-01-16 20:27:26,select,0,title_results,iPhone,1,2024-01
+italiana,olu,IT,Veloz como el viento,2024-01-14 21:35:18,play,0,title_results,iPhone,1,2024-01
+italiana,olu,IT,Veloz como el viento,2024-01-14 21:35:14,select,0,title_results,iPhone,1,2024-01
+jake,olu,IT,Culpable,2024-01-13 21:05:10,select,0,title_results,iPhone,1,2024-01
+the terminal,olu,IT,Siete días y una vida,2024-01-10 20:33:41,select,0,title_results,iPhone,1,2024-01
+pedro almodovar,olu,IT,En la Toscana,2024-01-10 20:24:07,select,0,title_results,iPhone,1,2024-01
+la vi,olu,IT,La vida es bella,2024-01-10 20:15:01,select,0,title_results,iPhone,1,2024-01
+florencia,olu,ES,En la Toscana,2024-01-09 17:24:02,select,0,title_results,iPhone,1,2024-01
+florencia,olu,ES,El triángulo de la muerte: Los monstruos de Florencia,2024-01-09 17:23:49,select,0,title_results,iPhone,1,2024-01
+florencia,olu,ES,Florencia: Una historia de arte y poder,2024-01-09 17:21:06,select,0,title_results,iPhone,1,2024-01
+paris te,olu,ES,El diario de Bridget Jones,2024-01-09 14:15:52,select,0,title_results,iPhone,1,2024-01
+mean girls,olu,ES,No es otra tonta película americana,2024-01-08 22:38:24,add,0,title_results,HTML 5,1,2024-01
+genny and georgia,UMA,ES,Ginny y Georgia,2024-01-08 16:59:07,select,0,title_results,iPhone,1,2024-01
+pret,UMA,ES,Pretty Woman,2024-01-02 21:50:54,play,0,title_results,HTML 5,1,2024-01
+riverdale,UMA,ES,Revancha ya,2024-01-01 21:55:04,play,0,title_results,HTML 5,1,2024-01
+no,olu,AR,Norma,2023-12-31 21:13:59,play,0,title_results,MVPD STB,12,2023-12
+no,olu,AR,Norma,2023-12-31 21:13:40,select,0,title_results,MVPD STB,12,2023-12
+it,olu,ES,Nuovo Cinema Paradiso,2023-12-28 21:46:41,play,0,suggestion_results,HTML 5,12,2023-12
+it,olu,ES,Películas italianas,2023-12-28 21:46:36,select,0,suggestion_results,HTML 5,12,2023-12
+italia,olu,ES,Películas italianas,2023-12-28 21:03:40,select,0,suggestion_results,HTML 5,12,2023-12
+jude,olu,ES,Jude Law,2023-12-28 21:03:16,select,0,suggestion_results,HTML 5,12,2023-12
+river,UMA,ES,Revancha ya,2023-12-27 23:17:31,play,0,title_results,HTML 5,12,2023-12
+river,UMA,ES,Revancha ya,2023-12-27 23:01:41,play,0,title_results,HTML 5,12,2023-12
+jude,olu,ES,El descanso,2023-12-25 00:53:54,play,0,title_results,HTML 5,12,2023-12
+bla,UMA,AR,Black Mirror,2023-12-18 00:54:33,select,0,title_results,iPhone,12,2023-12
+mr and mrs,UMA,AR,Sr. y Sra. Smith,2023-12-17 17:54:21,select,0,title_results,iPhone,12,2023-12
+mr and mrs,UMA,AR,Sr. y Sra. Smith,2023-12-17 17:54:02,select,0,title_results,iPhone,12,2023-12
+codigo enigma,olu,AR,El código enigma,2023-12-09 15:57:33,play,0,title_results,HTML 5,12,2023-12
+inteligencia artificial,olu,AR,I.A. Inteligencia Artificial,2023-12-01 15:04:06,select,0,suggestion_results,HTML 5,12,2023-12
+sur,UMA,AR,Surviving Summer,2023-11-25 19:12:11,play,0,title_results,HTML 5,11,2023-11
+sur,UMA,AR,"Surviving Summer: Season 2: ""Selection""",2023-11-25 17:51:38,play,0,title_results,HTML 5,11,2023-11
+young roya,UMA,AR,"Young Royals: Season 1: ""Episode 1""",2023-11-21 17:12:29,play,0,title_results,HTML 5,11,2023-11
+art,olu,AR,Arte y diseño,2023-11-20 14:00:31,select,0,suggestion_results,HTML 5,11,2023-11
+picass,olu,AR,Matisse/Picasso: Twin Giants of Modern Art,2023-11-20 14:00:06,select,0,suggestion_results,HTML 5,11,2023-11
+es,UMA,AR,La Escuela del Bien y del Mal,2023-11-19 17:16:57,play,0,title_results,HTML 5,11,2023-11
+el hoyo,UMA,AR,El hoyo,2023-11-18 19:05:41,play,0,title_results,HTML 5,11,2023-11
+h,SIL,AR,Hongos fantásticos,2023-11-09 23:24:49,play,0,title_results,Smart TV,11,2023-11
+h,SIL,AR,Hongos fantásticos,2023-11-09 23:24:46,select,0,title_results,Smart TV,11,2023-11
+hongos,SIL,AR,Cómo cambiar tu mente,2023-11-08 23:40:35,select,0,title_results,iPad,11,2023-11
+artificial,olu,AR,I.A. Inteligencia Artificial,2023-11-06 13:52:31,select,0,suggestion_results,HTML 5,11,2023-11
+the craft legacy,UMA,AR,Una chica en apuros,2023-11-05 22:09:12,select,0,title_results,iPhone,11,2023-11
+the craft legacy,UMA,AR,Una chica en apuros,2023-11-05 22:09:04,select,0,title_results,iPhone,11,2023-11
+the craft legacy,UMA,AR,The Craft: Legacy,2023-11-05 22:08:55,select,0,title_results,iPhone,11,2023-11
+ste,UMA,AR,Step Up,2023-11-02 00:39:59,play,0,title_results,HTML 5,11,2023-11
+do reven,UMA,AR,Do Revenge,2023-10-30 02:35:20,select,0,title_results,iPhone,10,2023-10
+una chica en apu,UMA,AR,Una chica en apuros,2023-10-29 21:45:35,play,0,title_results,HTML 5,10,2023-10
+una chica en apu,UMA,AR,Una chica en apuros,2023-10-29 21:24:49,play,0,title_results,HTML 5,10,2023-10
+itali,olu,AR,Cortar por la línea de puntos,2023-10-28 03:20:00,play,0,suggestion_results,HTML 5,10,2023-10
+itali,olu,AR,Series de TV italianas,2023-10-28 03:19:08,select,0,suggestion_results,HTML 5,10,2023-10
+laura marano,olu,AR,Choose Love,2023-10-15 00:09:16,play,0,title_results,HTML 5,10,2023-10
+naturale,SIL,AR,La vida a color con David Attenborough,2023-10-10 19:49:43,play,0,title_results,MVPD STB,10,2023-10
+naturale,SIL,AR,La vida a color con David Attenborough,2023-10-10 19:47:08,play,0,title_results,MVPD STB,10,2023-10
+naturale,SIL,AR,La vida a color con David Attenborough,2023-10-10 19:46:54,select,0,title_results,MVPD STB,10,2023-10
+naturale,SIL,AR,La vida a color con David Attenborough,2023-10-10 17:06:58,play,0,title_results,MVPD STB,10,2023-10
+naturale,SIL,AR,La vida a color con David Attenborough,2023-10-10 17:06:38,select,0,title_results,MVPD STB,10,2023-10
+el cuerpo ,SIL,AR,El cuerpo en llamas,2023-10-07 04:53:37,select,0,title_results,iPad,10,2023-10
+el cuerpo ,SIL,AR,El cuerpo en llamas,2023-10-06 00:09:24,select,0,title_results,iPad,10,2023-10
+a trave,UMA,AR,A través de tu mirada,2023-09-30 19:37:28,select,0,title_results,iPhone,9,2023-09
+full,UMA,AR,Raising the Bar,2023-09-29 01:54:08,play,0,title_results,HTML 5,9,2023-09
+br,SIL,AR,Brooklyn Nine-Nine,2023-09-24 23:38:29,play,0,title_results,MVPD STB,9,2023-09
+br,SIL,AR,Brooklyn Nine-Nine,2023-09-24 23:38:10,select,0,title_results,MVPD STB,9,2023-09
+basquiat,UMA,AR,Abstract: The Art of Design,2023-09-21 23:41:05,select,0,title_results,iPhone,9,2023-09
+basquiat,UMA,AR,"The Andy Warhol Diaries: Limited Series: ""Collab: Andy & Basquiat""",2023-09-21 23:36:16,play,0,title_results,HTML 5,9,2023-09
+que,UMA,AR,Querido John,2023-09-20 23:19:58,play,0,title_results,HTML 5,9,2023-09
+querido,UMA,AR,Querido John,2023-09-20 01:10:02,play,0,title_results,HTML 5,9,2023-09
+9299,UMA,AR,"Surviving Summer: Season 2: ""Selection""",2023-09-16 00:50:53,play,0,title_results,HTML 5,9,2023-09
+9299,UMA,AR,Una chica en apuros,2023-09-16 00:49:58,select,0,title_results,iPhone,9,2023-09
+relaciones ,UMA,AR,Relaciones peligrosas,2023-09-16 00:47:16,select,0,title_results,iPhone,9,2023-09
+bias,olu,AR,Coded Bias,2023-09-15 16:05:20,select,0,title_results,iPhone,9,2023-09
+joan ,olu,AR,Joan Didion: El centro cede,2023-09-11 00:14:20,play,0,title_results,HTML 5,9,2023-09
+joan,olu,AR,Joan Didion: El centro cede,2023-09-10 03:09:18,play,0,title_results,HTML 5,9,2023-09
+joan ,olu,AR,Joan Didion: El centro cede,2023-09-04 17:28:15,add,0,title_results,HTML 5,9,2023-09
+step,UMA,AR,Step Up,2023-09-03 23:47:33,play,0,title_results,HTML 5,9,2023-09
+bailando,UMA,AR,Step Up,2023-09-03 23:43:15,add,0,title_results,iPhone,9,2023-09
+bailando,UMA,AR,Bailando,2023-09-03 23:43:06,select,0,title_results,iPhone,9,2023-09
+365,olu,AR,365 días: Aquel día,2023-09-03 20:43:38,select,0,title_results,iPhone,9,2023-09
+cenicienta ,olu,AR,Cenicienta Pop,2023-08-31 01:54:33,select,0,title_results,iPhone,8,2023-08
+selena ,olu,AR,The Fundamentals of Caring,2023-08-31 01:54:11,select,0,title_results,iPhone,8,2023-08
+dibujos,olu,AR,Shrek tercero,2023-08-31 01:30:14,play,0,title_results,HTML 5,8,2023-08
+dibujos,olu,AR,La fiesta de las salchichas,2023-08-31 01:28:21,play,0,title_results,HTML 5,8,2023-08
+dibujos,olu,AR,Dibujos animados,2023-08-31 01:27:17,select,0,suggestion_results,HTML 5,8,2023-08
+coraline,olu,AR,Coraline y la puerta secreta,2023-08-31 01:24:26,select,0,suggestion_results,HTML 5,8,2023-08
+disney,olu,AR,Disney,2023-08-31 01:23:24,select,0,suggestion_results,HTML 5,8,2023-08
+argentina,olu,AR,Argentina,2023-08-31 01:22:14,select,0,suggestion_results,HTML 5,8,2023-08
+365,olu,AR,365 días,2023-08-30 18:58:52,select,0,title_results,iPhone,8,2023-08
+survi,UMA,AR,Un cuento perfecto,2023-08-27 22:52:58,select,0,title_results,iPhone,8,2023-08
+survi,UMA,AR,Surviving Summer,2023-08-27 22:52:24,select,0,title_results,iPhone,8,2023-08
+shre,olu,AR,Shrek 2,2023-08-25 22:52:34,select,0,title_results,iPhone,8,2023-08
+hoy se arre,olu,AR,Hoy se arregla el mundo,2023-08-20 14:51:28,select,0,title_results,iPhone,8,2023-08
+jefr,UMA,AR,,2023-08-19 19:21:11,add,0,title_results,iPhone,8,2023-08
+jefr,UMA,AR,Jeffrey Epstein: Asquerosamente rico,2023-08-19 19:21:00,select,0,title_results,iPhone,8,2023-08
+hefrie,UMA,AR,DAHMER,2023-08-19 19:20:45,select,0,title_results,iPhone,8,2023-08
+argentina,olu,AR,Sean eternos: Campeones de América,2023-08-19 16:28:06,select,0,title_results,iPhone,8,2023-08
+nex,olu,AR,Next in Fashion,2023-08-15 01:51:23,add,0,title_results,HTML 5,8,2023-08
+gil,UMA,AR,"Gilmore Girls: Season 1: ""The Deer Hunters""",2023-08-10 19:03:23,play,0,title_results,HTML 5,8,2023-08
+gil,UMA,AR,"Gilmore Girls: Season 1: ""Pilot""",2023-08-09 21:49:55,play,0,title_results,HTML 5,8,2023-08
+we,olu,AR,"Wellmania: Season 1: ""Hall of Mirrors""",2023-08-07 02:27:30,play,0,title_results,iPad,8,2023-08
+we,olu,AR,"Wellmania: Season 1: ""The Real Camille""",2023-08-06 04:10:23,play,0,title_results,iPad,8,2023-08
+we,olu,AR,Wellmania,2023-08-06 04:10:12,select,0,title_results,iPad,8,2023-08
+basquiat,UMA,AR,Abstract: The Art of Design,2023-08-05 19:26:26,select,0,title_results,iPhone,8,2023-08
+basquiat,UMA,AR,Los diarios de Andy Warhol,2023-08-05 19:25:50,select,0,title_results,iPhone,8,2023-08
+bander,olu,AR,Black Mirror: Bandersnatch,2023-08-03 23:24:15,select,0,title_results,iPhone,8,2023-08
+sex educ,UMA,AR,Sex Education,2023-08-03 22:52:36,select,0,title_results,iPhone,8,2023-08
+hea,UMA,AR,"Heartstopper: Season 2: ""Out""",2023-08-03 14:55:48,play,0,,HTML 5,8,2023-08
+fash,olu,AR,"No Time for Shame: Season 1: ""Episode 1""",2023-08-03 00:46:20,play,0,,HTML 5,8,2023-08
+fash,olu,AR,No hay tiempo para la vergüenza,2023-08-03 00:45:35,play,0,suggestion_results,HTML 5,8,2023-08
+fash,olu,AR,Fashion,2023-08-03 00:44:52,select,0,suggestion_results,HTML 5,8,2023-08
+baby,UMA,AR,Baby,2023-07-31 15:07:46,play,0,title_results,HTML 5,7,2023-07
+ba,UMA,AR,,2023-07-31 09:33:17,add,0,title_results,iPhone,7,2023-07
+ba,UMA,AR,Baby,2023-07-31 09:33:14,select,0,title_results,iPhone,7,2023-07
+flea,olu,AR,Crashing,2023-07-31 00:21:22,select,0,title_results,iPhone,7,2023-07
+to hot t,UMA,AR,"Too Hot to Handle: Season 5: ""The Climax""",2023-07-30 01:58:11,play,0,title_results,HTML 5,7,2023-07
+to ho,UMA,AR,"Too Hot to Handle: Season 5: ""Is It Too Late to Say Sorry?""",2023-07-28 14:34:25,play,0,,HTML 5,7,2023-07
+sch,UMA,AR,The School for Good and Evil,2023-07-28 01:13:25,play,0,title_results,HTML 5,7,2023-07
+the good place,olu,AR,"The Good Place: Season 1: ""Everything Is Fine""",2023-07-27 17:36:07,play,0,title_results,HTML 5,7,2023-07
+too hot,olu,AR,Too Hot to Handle,2023-07-26 23:55:23,select,0,title_results,iPhone,7,2023-07
+too hot,olu,AR,Too Hot to Handle,2023-07-26 23:52:50,select,0,title_results,iPhone,7,2023-07
+lora,UMA,AR,El Lórax: En busca de la trúfula perdida,2023-07-19 02:01:54,play,0,,HTML 5,7,2023-07
+tit,olu,ES,"Titans: Season 4: ""Lex Luthor""",2023-07-17 19:55:37,play,0,title_results,HTML 5,7,2023-07
+the o,olu,ES,The Office (EE. UU.),2023-07-17 16:35:39,play,0,title_results,HTML 5,7,2023-07
+the office ,olu,ES,"The Office (U.S.): Season 2: ""The Client""",2023-07-17 15:03:48,play,0,title_results,HTML 5,7,2023-07
+el viaje,olu,ES,El increíble castillo vagabundo,2023-07-16 22:48:28,play,0,title_results,HTML 5,7,2023-07
+ginn,olu,ES,Ginny y Georgia,2023-07-16 16:21:58,select,0,title_results,iPhone,7,2023-07
+ginn,olu,ES,Ginny y Georgia,2023-07-16 16:21:39,select,0,title_results,iPhone,7,2023-07
+,olu,ES,Black Mirror,2023-07-16 15:41:04,select,0,prequery_results,iPhone,7,2023-07
+bl,UMA,AR,"Black Mirror: Season 1: ""The National Anthem""",2023-07-13 21:09:39,play,0,title_results,HTML 5,7,2023-07
+chernov,SIL,AR,Chernóbil: La película,2023-07-11 01:41:51,select,0,title_results,iPad,7,2023-07
+sex edu,olu,ES,Sex Education,2023-07-06 11:37:19,select,0,title_results,iPhone,7,2023-07
+sex edu,olu,ES,Sex Education,2023-07-06 11:35:58,select,0,title_results,iPhone,7,2023-07
+atraves ,UMA,AR,A través del mar,2023-06-27 03:03:47,play,0,,HTML 5,6,2023-06
+la casa d,olu,ES,La casa de papel,2023-06-26 23:04:22,select,0,title_results,iPhone,6,2023-06
+win,olu,ES,Ever After High,2023-06-25 19:07:55,select,0,title_results,iPhone,6,2023-06
+win,olu,ES,World of Winx,2023-06-25 19:07:48,select,0,title_results,iPhone,6,2023-06
+,olu,ES,Black Mirror,2023-06-22 09:24:38,select,0,prequery_results,iPhone,6,2023-06
+la casa de papel,UMA,AR,El juego del calamar,2023-06-20 00:09:41,select,0,title_results,iPhone,6,2023-06
+la casa de papel,UMA,AR,La casa de papel,2023-06-20 00:08:34,select,0,title_results,iPhone,6,2023-06
+black,olu,ES,"Black Mirror: Season 4: ""USS Callister""",2023-06-19 16:20:04,play,0,title_results,HTML 5,6,2023-06
+bo,olu,ES,"BoJack Horseman: Season 3: ""BoJack Kills""",2023-06-18 00:05:13,play,0,,HTML 5,6,2023-06
+lady,olu,ES,Miraculous: Las aventuras de Ladybug,2023-06-12 12:22:50,select,0,title_results,iPhone,6,2023-06
+lady,olu,ES,"Miraculous: Ladybug & Cat Noir, The Movie",2023-06-12 12:22:40,add,0,title_results,iPhone,6,2023-06
+lady,olu,ES,Miraculous: Las aventuras de Ladybug - La película,2023-06-12 12:22:22,select,0,title_results,iPhone,6,2023-06
+serie ita,olu,ES,Cortar por la línea de puntos,2023-06-11 22:57:15,select,0,title_results,iPhone,6,2023-06
+wes ande,olu,ES,,2023-06-07 22:59:00,select,0,suggestion_results,HTML 5,6,2023-06
+el h,olu,ES,El hoyo,2023-05-27 17:14:02,play,0,,HTML 5,5,2023-05
+vinl,olu,ES,Vinland Saga,2023-05-25 12:41:53,select,0,title_results,iPhone,5,2023-05
+la rea,UMA,AR,"Young Royals: Season 1: ""Episode 1""",2023-05-24 00:36:49,play,0,,HTML 5,5,2023-05
+kit,UMA,AR,"Besos, Kitty",2023-05-19 14:38:29,select,0,title_results,iPhone,5,2023-05
+brid,UMA,AR,La reina Charlotte: Una historia de Bridgerton,2023-05-19 14:37:34,select,0,title_results,iPhone,5,2023-05
+brid,UMA,AR,Bridgerton,2023-05-19 14:37:19,select,0,title_results,iPhone,5,2023-05
+sitcomes,olu,ES,"Never Have I Ever: Season 1: ""Pilot""",2023-05-12 15:44:38,play,0,,HTML 5,5,2023-05
+barbie,olu,ES,Miraculous: Las aventuras de Ladybug,2023-05-08 23:08:22,select,0,title_results,iPhone,5,2023-05
+hunter,olu,ES,Hunter X Hunter (2011),2023-05-05 04:24:12,add,0,title_results,HTML 5,5,2023-05
+hunter,olu,ES,Hunter X Hunter (2011),2023-05-05 04:24:10,add,0,title_results,HTML 5,5,2023-05
+hunter,olu,ES,Hunter X Hunter (2011),2023-05-05 04:24:07,add,0,title_results,HTML 5,5,2023-05
+,SIL,AR,Cómo cambiar tu mente,2023-05-04 23:39:05,select,0,prequery_results,iPad,5,2023-05
+cambia,SIL,AR,Cómo cambiar tu mente,2023-05-03 00:01:21,select,0,title_results,iPad,5,2023-05
+prett,olu,ES,Ni idea,2023-04-22 21:00:58,play,0,,HTML 5,4,2023-04
+prett,olu,ES,Pretty Woman,2023-04-22 21:00:09,select,0,suggestion_results,HTML 5,4,2023-04
+machos,SIL,AR,Machos alfa,2023-04-21 03:37:36,select,0,title_results,iPad,4,2023-04
+bri,olu,ES,"Bridgerton: Season 2: ""Capital R Rake""",2023-04-20 18:21:46,play,0,title_results,HTML 5,4,2023-04
+the,olu,ES,The Office (EE. UU.),2023-04-11 17:29:01,select,0,title_results,iPhone,4,2023-04
+,olu,HR,Regreso al espacio,2023-04-11 13:49:00,select,0,prequery_results,iPhone,4,2023-04
+,olu,HR,Nuestro universo,2023-04-11 13:48:55,select,0,prequery_results,iPhone,4,2023-04
+,olu,HR,Agujeros negros: Al límite del conocimiento,2023-04-11 13:44:46,select,0,prequery_results,iPhone,4,2023-04
+dejate llev,UMA,AR,Déjate llevar,2023-04-09 03:07:15,play,0,title_results,HTML 5,4,2023-04
+dejate llev,UMA,AR,Déjate llevar,2023-04-09 03:07:02,play,0,title_results,HTML 5,4,2023-04
+emi,SIL,AR,"Emily in Paris: Season 1: ""Faux Amis""",2023-03-27 00:41:02,play,0,title_results,iPad,3,2023-03
+emi,SIL,AR,"Emily in Paris: Season 1: ""Faux Amis""",2023-03-26 22:05:11,play,0,title_results,iPad,3,2023-03
+emi,SIL,AR,Emily en París,2023-03-26 22:04:49,select,0,title_results,iPad,3,2023-03
+work ,UMA,AR,10 Minute Workouts,2023-03-26 19:42:55,select,0,title_results,iPhone,3,2023-03
+sh,olu,AR,Shrek,2023-03-16 23:56:14,play,0,title_results,MVPD STB,3,2023-03
+sh,olu,AR,Shrek,2023-03-16 23:55:53,select,0,title_results,MVPD STB,3,2023-03
+ha,olu,AR,Hasta que la plata nos separe,2023-03-16 21:05:17,play,0,title_results,MVPD STB,3,2023-03
+ha,olu,AR,Hasta que la plata nos separe,2023-03-16 21:04:39,play,0,title_results,MVPD STB,3,2023-03
+ha,olu,AR,Hasta que la plata nos separe,2023-03-16 21:04:25,select,0,title_results,MVPD STB,3,2023-03
+paul ver,olu,ES,,2023-03-10 16:02:52,select,0,suggestion_results,HTML 5,3,2023-03
+opera,olu,ES,"Community Squad: Season 1: ""Urban Guard""",2023-03-06 14:48:41,play,0,,HTML 5,3,2023-03
+to hot ,UMA,AR,Hermanos al acecho,2023-03-05 02:04:38,select,0,title_results,iPhone,3,2023-03
+to hot ,UMA,AR,Merlina,2023-03-05 02:04:21,select,0,title_results,iPhone,3,2023-03
+to hot ,UMA,AR,La pareja perfecta,2023-03-05 02:03:38,select,0,title_results,iPhone,3,2023-03
+miro,olu,ES,The Greatest Painters of the World: Joan Miró,2023-03-03 20:06:18,play,0,title_results,HTML 5,3,2023-03
+miro,olu,ES,The Greatest Painters of the World: Joan Miró,2023-03-03 16:56:00,add,0,title_results,HTML 5,3,2023-03
+baribie,olu,ES,Barbie in the 12 Dancing Princesses,2023-02-28 23:04:21,select,0,suggestion_results,HTML 5,2,2023-02
+baribie,olu,ES,Barbie in the 12 Dancing Princesses,2023-02-28 23:04:21,select,0,suggestion_results,HTML 5,2,2023-02
+bar,olu,ES,Barbie,2023-02-28 23:00:42,select,0,suggestion_results,HTML 5,2,2023-02
+bar,olu,ES,,2023-02-28 23:00:42,select,0,suggestion_results,HTML 5,2,2023-02
+borgen,olu,ES,Borgen,2023-02-27 09:43:03,select,0,title_results,iPhone,2,2023-02
+borgen,olu,ES,"Borgen: Reino, poder y gloria",2023-02-27 09:42:59,select,0,title_results,iPhone,2,2023-02
+borgen,olu,ES,Borgen,2023-02-27 09:42:55,select,0,title_results,iPhone,2,2023-02
+borgen,olu,ES,,2023-02-27 09:42:44,add,0,title_results,iPhone,2,2023-02
+borgen,olu,ES,Borgen,2023-02-27 09:42:42,select,0,title_results,iPhone,2,2023-02
+division p,olu,ES,,2023-02-27 09:42:23,add,0,title_results,iPhone,2,2023-02
+division p,olu,ES,División Palermo,2023-02-27 09:42:20,select,0,title_results,iPhone,2,2023-02
+ginny,UMA,AR,Ginny y Georgia,2023-02-25 20:24:09,select,0,title_results,iPhone,2,2023-02
+ou,olu,ES,"Outer Banks: Season 1: ""Pilot""",2023-02-25 17:48:24,play,0,title_results,HTML 5,2,2023-02
+ou,olu,ES,"Outer Banks: Season 1: ""Pilot""",2023-02-25 17:48:24,play,0,title_results,HTML 5,2,2023-02
+el desprecio,olu,ES,El Desprecio,2023-02-24 16:43:00,select,0,suggestion_results,HTML 5,2,2023-02
+el desprecio,olu,ES,,2023-02-24 16:43:00,select,0,suggestion_results,HTML 5,2,2023-02
+the greatest pai,olu,ES,,2023-02-24 16:37:16,select,0,suggestion_results,HTML 5,2,2023-02
+the greatest pai,olu,ES,Greatest Painters of the World,2023-02-24 16:37:16,select,0,suggestion_results,HTML 5,2,2023-02
+the greatest pai,olu,ES,Greatest Painters of the World,2023-02-24 16:36:43,select,0,suggestion_results,HTML 5,2,2023-02
+the greatest pai,olu,ES,,2023-02-24 16:36:43,select,0,suggestion_results,HTML 5,2,2023-02
+rom,olu,ES,,2023-02-23 21:36:13,select,0,suggestion_results,HTML 5,2,2023-02
+rom,olu,ES,Películas románticas sensuales,2023-02-23 21:36:13,select,0,suggestion_results,HTML 5,2,2023-02
+rom,olu,ES,Romance,2023-02-23 21:36:06,select,0,suggestion_results,HTML 5,2,2023-02
+rom,olu,ES,Romance,2023-02-23 21:36:06,select,0,suggestion_results,HTML 5,2,2023-02
+outer,UMA,AR,Outer Banks,2023-02-23 03:10:36,select,0,title_results,iPhone,2,2023-02
+break,olu,ES,Break Point,2023-02-19 18:24:11,select,0,title_results,iPhone,2,2023-02
+lady bird,UMA,AR,Mujercitas,2023-02-12 05:07:21,select,0,title_results,iPhone,2,2023-02
+smil,olu,ES,,2023-02-08 23:14:42,add,0,title_results,HTML 5,2,2023-02
+smil,olu,ES,Smiley,2023-02-08 23:14:42,add,0,title_results,HTML 5,2,2023-02
+that,olu,ES,,2023-02-08 23:13:04,select,0,suggestion_results,HTML 5,2,2023-02
+that,olu,ES,That '70s Show,2023-02-08 23:13:04,select,0,suggestion_results,HTML 5,2,2023-02
+gla,UMA,AR,Glass Onion: Un misterio de Knives Out,2023-02-08 17:07:57,play,0,,HTML 5,2,2023-02
+gla,UMA,AR,Glass Onion: A Knives Out Mystery,2023-02-08 17:07:57,play,0,,HTML 5,2,2023-02
+gla,UMA,AR,Glass Onion: Un misterio de Knives Out,2023-02-08 15:45:22,play,0,,HTML 5,2,2023-02
+gla,UMA,AR,Glass Onion: A Knives Out Mystery,2023-02-08 15:45:22,play,0,,HTML 5,2,2023-02
+gla,UMA,AR,Glass Onion: A Knives Out Mystery,2023-02-08 15:07:51,play,0,,HTML 5,2,2023-02
+gla,UMA,AR,Glass Onion: Un misterio de Knives Out,2023-02-08 15:07:51,play,0,,HTML 5,2,2023-02
+gla,UMA,AR,Glass Onion: A Knives Out Mystery,2023-02-08 14:53:38,play,0,title_results,HTML 5,2,2023-02
+gla,UMA,AR,Glass Onion: Un misterio de Knives Out,2023-02-08 14:53:38,play,0,title_results,HTML 5,2,2023-02
+smile,UMA,AR,,2023-02-07 01:53:53,play,0,title_results,HTML 5,2,2023-02
+smile,UMA,AR,Smiley,2023-02-07 01:53:53,play,0,title_results,HTML 5,2,2023-02
+grand army,UMA,AR,"Grand Army: Season 1: ""Relationship Goals""",2023-02-04 16:05:50,play,0,,HTML 5,2,2023-02
+grand army,UMA,AR,"Grand Army: Season 1: ""Brooklyn, 2020""",2023-02-04 01:00:10,play,0,,HTML 5,2,2023-02
+boo ,UMA,AR,"Boo, Bitch",2023-02-03 21:19:13,select,0,title_results,iPhone,2,2023-02
+parodias,olu,AR,Una noche loca,2023-01-23 06:35:57,play,0,title_results,MVPD STB,1,2023-01
+parodias,olu,AR,Una noche loca,2023-01-23 06:35:57,play,0,title_results,MVPD STB,1,2023-01
+parodias,olu,AR,Una noche loca,2023-01-23 06:35:44,select,0,title_results,MVPD STB,1,2023-01
+parodias,olu,AR,Una noche loca,2023-01-23 06:35:44,select,0,title_results,MVPD STB,1,2023-01
+scary s,olu,AR,Cuentos al caer la noche,2023-01-23 06:22:06,select,0,title_results,MVPD STB,1,2023-01
+scary s,olu,AR,Cuentos al caer la noche,2023-01-23 06:22:06,select,0,title_results,MVPD STB,1,2023-01
+,UMA,UY,A través de mi ventana,2023-01-20 22:16:24,select,0,prequery_results,iPhone,1,2023-01
+,UMA,UY,El niño,2023-01-20 22:16:11,select,0,prequery_results,iPhone,1,2023-01
+glass,UMA,UY,Misterio a bordo,2023-01-20 22:14:55,select,0,title_results,iPhone,1,2023-01
+glass,UMA,UY,Glass Onion: Un misterio de Knives Out,2023-01-20 22:14:09,select,0,title_results,iPhone,1,2023-01
+bar,UMA,AR,Barbie in a Mermaid Tale,2023-01-15 19:09:10,play,0,title_results,HTML 5,1,2023-01
+bar,UMA,AR,Barbie en una aventura de sirenas,2023-01-15 19:09:10,play,0,title_results,HTML 5,1,2023-01
+su,olu,AR,Películas de suspenso,2023-01-15 00:39:52,select,0,suggestion_results,MVPD STB,1,2023-01
+su,olu,AR,Películas de suspenso,2023-01-15 00:39:52,select,0,suggestion_results,MVPD STB,1,2023-01
+su,olu,AR,Suspense,2023-01-15 00:39:42,select,0,suggestion_results,MVPD STB,1,2023-01
+su,olu,AR,Suspense,2023-01-15 00:39:42,select,0,suggestion_results,MVPD STB,1,2023-01
+jake,olu,AR,Jake Gyllenhaal,2023-01-15 00:34:57,select,0,suggestion_results,MVPD STB,1,2023-01
+jake,olu,AR,Jake Gyllenhaal,2023-01-15 00:34:57,select,0,suggestion_results,MVPD STB,1,2023-01
+g,olu,AR,Ginny y Georgia,2023-01-11 21:54:54,play,0,title_results,MVPD STB,1,2023-01
+g,olu,AR,Ginny y Georgia,2023-01-11 21:54:54,play,0,title_results,MVPD STB,1,2023-01
+g,olu,AR,Ginny y Georgia,2023-01-11 21:51:10,select,0,title_results,MVPD STB,1,2023-01
+g,olu,AR,Ginny y Georgia,2023-01-11 21:51:10,select,0,title_results,MVPD STB,1,2023-01
+,olu,AR,Dark,2023-01-11 18:57:54,play,0,prequery_results,MVPD STB,1,2023-01
+,olu,AR,Dark,2023-01-11 18:57:23,play,0,prequery_results,MVPD STB,1,2023-01
+,olu,AR,Dark,2023-01-11 18:56:59,select,0,prequery_results,MVPD STB,1,2023-01
+school,UMA,AR,The School for Good and Evil,2023-01-10 00:33:31,play,0,title_results,HTML 5,1,2023-01
+school,UMA,AR,The School for Good and Evil,2023-01-10 00:33:31,play,0,title_results,HTML 5,1,2023-01
+schoo,UMA,AR,The School for Good and Evil,2023-01-09 22:47:06,select,0,title_results,iPhone,1,2023-01
+school,UMA,AR,The School for Good and Evil,2023-01-09 22:31:17,play,0,,HTML 5,1,2023-01
+school,UMA,AR,The School for Good and Evil,2023-01-09 22:31:17,play,0,,HTML 5,1,2023-01
+dark,olu,AR,Dark,2023-01-01 19:23:43,select,0,title_results,iPhone,1,2023-01
+vicky,olu,AR,Vicky Cristina Barcelona,2022-12-28 19:25:40,select,0,suggestion_results,HTML 5,12,2022-12
+vicky,olu,AR,Vicky Cristina Barcelona,2022-12-28 19:25:40,select,0,suggestion_results,HTML 5,12,2022-12
+kni,olu,AR,Knives Out: Entre navajas y secretos,2022-12-23 23:57:46,play,0,title_results,MVPD STB,12,2022-12
+kni,olu,AR,Knives Out: Entre navajas y secretos,2022-12-23 23:57:46,play,0,title_results,MVPD STB,12,2022-12
+kni,olu,AR,Knives Out: Entre navajas y secretos,2022-12-23 23:57:28,select,0,title_results,MVPD STB,12,2022-12
+kni,olu,AR,Knives Out: Entre navajas y secretos,2022-12-23 23:57:28,select,0,title_results,MVPD STB,12,2022-12
+barcelona,olu,AR,Volver,2022-12-21 23:14:33,select,0,suggestion_results,iPhone,12,2022-12
+barcelona,olu,AR,Vicky Cristina Barcelona,2022-12-21 23:14:30,select,0,suggestion_results,iPhone,12,2022-12
+the pro,UMA,AR,Léon: The Professional,2022-12-21 16:30:21,play,0,,HTML 5,12,2022-12
+the pro,UMA,AR,Léon: The Professional,2022-12-21 16:30:21,play,0,,HTML 5,12,2022-12
+the pro,UMA,AR,Léon: The Professional,2022-12-21 14:11:38,add,0,title_results,HTML 5,12,2022-12
+the pro,UMA,AR,Léon: The Professional,2022-12-21 14:11:38,add,0,title_results,HTML 5,12,2022-12
+sum,UMA,AR,Surviving Summer,2022-12-18 01:46:39,select,0,title_results,iPhone,12,2022-12
+bay wa,UMA,AR,Baywatch,2022-12-05 14:57:25,play,0,,HTML 5,12,2022-12
+bay wa,UMA,AR,Baywatch: Guardianes de la bahía,2022-12-05 14:57:25,play,0,,HTML 5,12,2022-12
+dark,olu,AR,,2022-12-04 03:07:30,play,0,title_results,HTML 5,12,2022-12
+dark,olu,AR,Dark,2022-12-04 03:07:30,play,0,title_results,HTML 5,12,2022-12
+da,olu,AR,Dark,2022-12-03 01:03:34,play,0,title_results,MVPD STB,12,2022-12
+da,olu,AR,Dark,2022-12-03 01:03:34,play,0,title_results,MVPD STB,12,2022-12
+da,olu,AR,Dark,2022-12-03 01:03:30,select,0,title_results,MVPD STB,12,2022-12
+da,olu,AR,Dark,2022-12-03 01:03:30,select,0,title_results,MVPD STB,12,2022-12
+da,olu,AR,Dark,2022-12-03 01:03:04,play,0,title_results,MVPD STB,12,2022-12
+da,olu,AR,Dark,2022-12-03 01:03:04,play,0,title_results,MVPD STB,12,2022-12
+da,olu,AR,Dark,2022-12-03 01:02:47,select,0,title_results,MVPD STB,12,2022-12
+da,olu,AR,Dark,2022-12-03 01:02:47,select,0,title_results,MVPD STB,12,2022-12
+bl,UMA,AR,"Black Mirror: Season 1: ""The National Anthem""",2022-12-02 22:40:54,play,0,title_results,HTML 5,12,2022-12
+bl,UMA,AR,"Black Mirror: Season 1: ""The National Anthem""",2022-12-02 22:40:54,play,0,title_results,HTML 5,12,2022-12
+desi,olu,AR,Designated Survivor,2022-12-02 17:57:17,play,0,title_results,MVPD STB,12,2022-12
+desi,olu,AR,Designated Survivor,2022-12-02 17:57:17,play,0,title_results,MVPD STB,12,2022-12
+desi,olu,AR,Designated Survivor,2022-12-02 17:14:46,play,0,title_results,MVPD STB,12,2022-12
+desi,olu,AR,Designated Survivor,2022-12-02 17:14:46,play,0,title_results,MVPD STB,12,2022-12
+desi,olu,AR,Designated Survivor,2022-12-02 17:14:25,select,0,title_results,MVPD STB,12,2022-12
+desi,olu,AR,Designated Survivor,2022-12-02 17:14:25,select,0,title_results,MVPD STB,12,2022-12
+am,UMA,AR,The Twilight Saga: Breaking Dawn: Part 2,2022-11-22 21:50:39,play,0,title_results,HTML 5,11,2022-11
+am,UMA,AR,"Crepúsculo, la saga: Amanecer (Parte 2)",2022-11-22 21:50:39,play,0,title_results,HTML 5,11,2022-11
+ama,UMA,AR,"Crepúsculo, la saga: Amanecer (Parte 1)",2022-11-22 17:55:42,play,0,title_results,HTML 5,11,2022-11
+ama,UMA,AR,The Twilight Saga: Breaking Dawn: Part 1,2022-11-22 17:55:42,play,0,title_results,HTML 5,11,2022-11
+ama,UMA,AR,"Crepúsculo, la saga: Amanecer (Parte 1)",2022-11-22 17:02:24,play,0,,HTML 5,11,2022-11
+ama,UMA,AR,The Twilight Saga: Breaking Dawn: Part 1,2022-11-22 17:02:24,play,0,,HTML 5,11,2022-11
+cre,UMA,AR,The Twilight Saga: New Moon,2022-11-21 22:50:25,play,0,title_results,HTML 5,11,2022-11
+cre,UMA,AR,The Twilight Saga: New Moon,2022-11-21 22:50:25,play,0,title_results,HTML 5,11,2022-11
+maria,SIL,AR,"Carmel: Who Killed Maria Marta?: Limited Series: ""A Rainy Sunday""",2022-11-21 22:35:03,play,0,title_results,iPad,11,2022-11
+maria,SIL,AR,Carmel: ¿Quién mató a María Marta?,2022-11-21 22:35:00,select,0,title_results,iPad,11,2022-11
+maria,SIL,AR,Carmel: ¿Quién mató a María Marta?,2022-11-21 22:34:29,select,0,title_results,iPad,11,2022-11
+metaverso,olu,AR,Triviaverso,2022-11-17 14:04:58,add,0,title_results,HTML 5,11,2022-11
+se,UMA,AR,"Sean eternos: Campeones de América: Season 1: ""Cuentas pendientes""",2022-11-16 00:50:32,play,0,title_results,HTML 5,11,2022-11
+se,UMA,AR,"Sean eternos: Campeones de América: Season 1: ""Cuentas pendientes""",2022-11-16 00:50:32,play,0,title_results,HTML 5,11,2022-11
+blue,UMA,AR,Blue Lagoon: The Awakening,2022-11-15 18:14:29,add,0,title_results,HTML 5,11,2022-11
+blue,UMA,AR,Blue Lagoon: The Awakening,2022-11-15 18:14:29,add,0,title_results,HTML 5,11,2022-11
+manifest,olu,AR,Manifest,2022-11-11 18:40:16,add,0,title_results,HTML 5,11,2022-11
+manifest,olu,AR,,2022-11-11 18:40:16,add,0,title_results,HTML 5,11,2022-11
+black mirror,olu,AR,"Black Mirror: Season 4: ""Hang the DJ""",2022-11-11 15:40:47,play,0,title_results,HTML 5,11,2022-11
+black mirror,olu,AR,"Black Mirror: Season 4: ""Hang the DJ""",2022-11-11 15:40:47,play,0,title_results,HTML 5,11,2022-11
+blacklist,olu,AR,,2022-11-11 13:23:00,add,0,title_results,HTML 5,11,2022-11
+blacklist,olu,AR,MINDHUNTER,2022-11-11 13:23:00,add,0,title_results,HTML 5,11,2022-11
+blacklist,olu,AR,,2022-11-11 13:22:19,add,0,title_results,HTML 5,11,2022-11
+blacklist,olu,AR,The Blacklist,2022-11-11 13:22:19,add,0,title_results,HTML 5,11,2022-11
+,olu,AR,Dark,2022-11-09 00:59:27,play,0,prequery_results,MVPD STB,11,2022-11
+,olu,AR,Dark,2022-11-09 00:59:02,select,0,prequery_results,MVPD STB,11,2022-11
+la v,olu,AR,Siete años en el Tíbet,2022-11-09 00:56:00,play,0,suggestion_results,MVPD STB,11,2022-11
+la v,olu,AR,Siete años en el Tíbet,2022-11-09 00:55:42,select,0,suggestion_results,MVPD STB,11,2022-11
+la v,olu,AR,La vida es bella,2022-11-09 00:54:07,select,0,suggestion_results,MVPD STB,11,2022-11
+la v,olu,AR,La vida es bella,2022-11-09 00:54:07,select,0,suggestion_results,MVPD STB,11,2022-11
+dark,olu,AR,"Dark: Season 1: ""Lies""",2022-11-08 20:39:49,play,0,,HTML 5,11,2022-11
+dark,olu,AR,"Dark: Season 1: ""Lies""",2022-11-08 20:39:49,play,0,,HTML 5,11,2022-11
+black mirror,olu,AR,"Black Mirror: Season 3: ""Nosedive""",2022-11-07 18:49:49,play,0,title_results,HTML 5,11,2022-11
+black mirror,olu,AR,"Black Mirror: Season 3: ""Nosedive""",2022-11-07 18:49:49,play,0,title_results,HTML 5,11,2022-11
+black mirro,olu,AR,"Black Mirror: Season 4: ""Hang the DJ""",2022-11-07 18:44:35,play,0,title_results,HTML 5,11,2022-11
+black mirro,olu,AR,"Black Mirror: Season 4: ""Hang the DJ""",2022-11-07 18:44:35,play,0,title_results,HTML 5,11,2022-11
+dar,olu,AR,"Dark: Season 1: ""Secrets""",2022-11-06 20:47:57,play,0,title_results,HTML 5,11,2022-11
+dar,olu,AR,"Dark: Season 1: ""Secrets""",2022-11-06 20:47:57,play,0,title_results,HTML 5,11,2022-11
+five ,olu,AR,"Five Came Back: Limited Series: ""The Mission Begins""",2022-11-03 18:59:03,play,0,title_results,HTML 5,11,2022-11
+five ,olu,AR,"Five Came Back: Limited Series: ""The Mission Begins""",2022-11-03 18:59:03,play,0,title_results,HTML 5,11,2022-11
+crimen,olu,AR,Documentales sobre crímenes reales,2022-11-03 18:57:18,select,0,suggestion_results,HTML 5,11,2022-11
+crimen,olu,AR,,2022-11-03 18:57:18,select,0,suggestion_results,HTML 5,11,2022-11
+crimen,olu,AR,,2022-11-03 18:56:54,select,0,suggestion_results,HTML 5,11,2022-11
+crimen,olu,AR,Crímenes reales,2022-11-03 18:56:54,select,0,suggestion_results,HTML 5,11,2022-11
+quien mato a ,olu,AR,"Carmel: Who Killed Maria Marta?: Limited Series: ""A Rainy Sunday""",2022-11-01 17:11:31,play,0,title_results,HTML 5,11,2022-11
+quien mato a ,olu,AR,"Carmel: Who Killed Maria Marta?: Limited Series: ""A Rainy Sunday""",2022-11-01 17:11:31,play,0,title_results,HTML 5,11,2022-11
+quien mato a ,olu,AR,,2022-11-01 17:03:40,add,0,title_results,HTML 5,11,2022-11
+quien mato a ,olu,AR,Carmel: ¿Quién mató a María Marta?,2022-11-01 17:03:40,add,0,title_results,HTML 5,11,2022-11
+el futuro de,olu,AR,"The Future Of: Season 1: ""Dating""",2022-11-01 15:01:39,play,0,title_results,HTML 5,11,2022-11
+el futuro de,olu,AR,"The Future Of: Season 1: ""Dating""",2022-11-01 15:01:39,play,0,title_results,HTML 5,11,2022-11
+winx,olu,AR,Destino: La saga Winx,2022-11-01 01:11:22,select,0,title_results,iPhone,11,2022-11
+win,olu,AR,Destino: La saga Winx - Afterparty,2022-11-01 01:11:07,select,0,title_results,iPhone,11,2022-11
+duba,SIL,AR,"Dubai Bling: Season 1: ""Ticking Time Bomb""",2022-11-01 00:40:52,play,0,title_results,iPad,11,2022-11
+duba,SIL,AR,"Dubai Bling: Season 1: ""Love Season""",2022-10-31 23:12:41,play,0,title_results,iPad,10,2022-10
+duba,SIL,AR,Dubai Bling,2022-10-31 23:12:00,select,0,title_results,iPad,10,2022-10
+histor,olu,AR,"History 101: Season 2: ""Dating Apps""",2022-10-31 15:34:19,play,0,title_results,HTML 5,10,2022-10
+histor,olu,AR,"History 101: Season 2: ""Dating Apps""",2022-10-31 15:34:19,play,0,title_results,HTML 5,10,2022-10
+histor,olu,AR,"History 101: Season 2: ""Dating Apps""",2022-10-31 15:33:24,play,0,title_results,HTML 5,10,2022-10
+histor,olu,AR,"History 101: Season 2: ""Dating Apps""",2022-10-31 15:33:24,play,0,title_results,HTML 5,10,2022-10
+el futuro de,olu,AR,The House,2022-10-31 13:14:20,add,0,title_results,HTML 5,10,2022-10
+el futuro de,olu,AR,La casa,2022-10-31 13:14:20,add,0,title_results,HTML 5,10,2022-10
+pic,UMA,AR,"Peaky Blinders: Season 1: ""Episode 1""",2022-10-30 22:45:54,play,0,title_results,HTML 5,10,2022-10
+pic,UMA,AR,"Peaky Blinders: Season 1: ""Episode 1""",2022-10-30 22:45:54,play,0,title_results,HTML 5,10,2022-10
+sex. ed,UMA,AR,"Sex Education: Season 1: ""Episode 2""",2022-10-24 21:29:49,play,0,,HTML 5,10,2022-10
+sex. ed,UMA,AR,"Sex Education: Season 1: ""Episode 2""",2022-10-24 21:29:49,play,0,,HTML 5,10,2022-10
+sex. ed,UMA,AR,"Sex Education: Season 1: ""Episode 1""",2022-10-24 20:27:18,play,0,title_results,HTML 5,10,2022-10
+sex. ed,UMA,AR,"Sex Education: Season 1: ""Episode 1""",2022-10-24 20:27:18,play,0,title_results,HTML 5,10,2022-10
+trink,UMA,AR,"Trinkets: Season 2: ""Supernova""",2022-10-22 13:59:05,play,0,title_results,HTML 5,10,2022-10
+trink,UMA,AR,"Trinkets: Season 2: ""Supernova""",2022-10-22 13:59:05,play,0,title_results,HTML 5,10,2022-10
+fisica cuántica ,SIL,AR,"The Mind, Explained: Season 1: ""Memory""",2022-10-20 01:02:55,play,0,title_results,iPad,10,2022-10
+fisica cuántica ,SIL,AR,"La mente, en pocas palabras",2022-10-20 01:01:35,select,0,title_results,iPad,10,2022-10
+darin,olu,AR,El ciudadano ilustre,2022-10-15 21:17:05,play,0,,HTML 5,10,2022-10
+darin,olu,AR,,2022-10-15 21:16:36,select,0,suggestion_results,HTML 5,10,2022-10
+darin,olu,AR,Ricardo Darín,2022-10-15 21:16:36,select,0,suggestion_results,HTML 5,10,2022-10
+el secre,olu,AR,El Secreto de Sus Ojos,2022-10-15 21:13:00,select,0,suggestion_results,HTML 5,10,2022-10
+el secre,olu,AR,The Secret in Their Eyes,2022-10-15 21:13:00,select,0,suggestion_results,HTML 5,10,2022-10
+mpnst,UMA,AR,Monster High: 13 Wishes,2022-10-15 13:16:29,play,0,,HTML 5,10,2022-10
+mpnst,UMA,AR,Monster High: 13 deseos,2022-10-15 13:16:29,play,0,,HTML 5,10,2022-10
+that,olu,AR,,2022-10-12 17:03:31,select,0,suggestion_results,HTML 5,10,2022-10
+that,olu,AR,That '70s Show,2022-10-12 17:03:31,select,0,suggestion_results,HTML 5,10,2022-10
+big mouth,olu,AR,The Midnight Gospel,2022-10-01 19:44:22,select,0,title_results,iPhone,10,2022-10
+big mouth,olu,AR,Horsin' Around,2022-10-01 19:43:49,select,0,title_results,iPhone,10,2022-10
+big mouth,olu,AR,Cortar por la línea de puntos,2022-10-01 19:43:41,select,0,title_results,iPhone,10,2022-10
+follow this,olu,AR,Follow This,2022-09-26 13:32:10,play,0,title_results,HTML 5,9,2022-09
+dahmer,olu,AR,,2022-09-24 17:14:23,add,0,title_results,iPhone,9,2022-09
+dahmer,olu,AR,,2022-09-24 17:14:03,add,0,title_results,iPhone,9,2022-09
+dahmer,olu,AR,DAHMER,2022-09-24 17:14:00,select,0,title_results,iPhone,9,2022-09
+dahmer,olu,AR,El asesino del nudo,2022-09-24 17:13:54,select,0,title_results,iPhone,9,2022-09
+dahmer,olu,AR,Conversaciones con asesinos: Las cintas de Jeffrey Dahmer,2022-09-24 17:13:36,select,0,title_results,iPhone,9,2022-09
+dahmer,olu,AR,DAHMER,2022-09-24 17:13:25,select,0,title_results,iPhone,9,2022-09
+code,olu,AR,Coded Bias,2022-09-19 11:57:36,play,0,title_results,HTML 5,9,2022-09
+code,olu,AR,Coded Bias,2022-09-19 04:05:39,play,0,,HTML 5,9,2022-09
+code,olu,AR,Coded Bias,2022-09-19 04:05:39,play,0,,HTML 5,9,2022-09
+el vije,UMA,AR,El viaje de Chihiro,2022-09-11 22:34:43,play,0,title_results,HTML 5,9,2022-09
+barbie,UMA,AR,"Trivia Quest: Season 1: ""Reel Talk""",2022-09-11 22:17:42,play,0,,HTML 5,9,2022-09
+barbie,UMA,AR,"Trivia Quest: Season 1: ""Reel Talk""",2022-09-11 22:17:42,play,0,,HTML 5,9,2022-09
+barbie,UMA,AR,Barbie in the 12 Dancing Princesses,2022-09-11 22:14:58,play,0,,HTML 5,9,2022-09
+barbie,UMA,AR,Barbie in the 12 Dancing Princesses,2022-09-11 22:14:58,play,0,,HTML 5,9,2022-09
+un moun,UMA,AR,The Addams Family,2022-09-11 22:08:12,play,0,,HTML 5,9,2022-09
+un moun,UMA,AR,Los locos Addams,2022-09-11 22:08:12,play,0,,HTML 5,9,2022-09
+un moun,UMA,AR,A Monster in Paris,2022-09-11 22:07:14,play,0,,HTML 5,9,2022-09
+un moun,UMA,AR,Un monstruo en París,2022-09-11 22:07:14,play,0,,HTML 5,9,2022-09
+scary movie,olu,AR,Los locos Addams,2022-09-11 02:05:26,select,0,title_results,iPhone,9,2022-09
+scary movie,olu,AR,El hijo del diablo,2022-09-11 02:03:31,select,0,title_results,iPhone,9,2022-09
+scary movie,olu,AR,La fiesta de las salchichas,2022-09-11 02:02:25,select,0,title_results,iPhone,9,2022-09
+bar,olu,AR,Barbie in the 12 Dancing Princesses,2022-09-07 02:49:37,play,0,title_results,HTML 5,9,2022-09
+bar,olu,AR,Barbie in the 12 Dancing Princesses,2022-09-07 02:49:37,play,0,title_results,HTML 5,9,2022-09
+tri,UMA,AR,Triunfos robados: llegar para ganar,2022-09-07 00:05:33,play,0,,HTML 5,9,2022-09
+tri,UMA,AR,Bring It On: In It to Win It,2022-09-07 00:05:33,play,0,,HTML 5,9,2022-09
+tri,UMA,AR,Triunfos robados otra vez,2022-09-07 00:03:31,play,0,title_results,HTML 5,9,2022-09
+tri,UMA,AR,Bring It On Again,2022-09-07 00:03:31,play,0,title_results,HTML 5,9,2022-09
+sesgos,olu,AR,Prejuicio cifrado,2022-09-05 16:56:29,play,0,,HTML 5,9,2022-09
+black,olu,AR,"Black Mirror: Season 3: ""Nosedive""",2022-09-03 02:02:19,play,0,title_results,HTML 5,9,2022-09
+black,olu,AR,"Black Mirror: Season 3: ""Nosedive""",2022-09-03 02:02:19,play,0,title_results,HTML 5,9,2022-09
+libera ,SIL,AR,Cómo cambiar tu mente,2022-08-30 01:23:53,select,0,title_results,iPad,8,2022-08
+hou,olu,AR,"House of Cards: Season 1: ""Chapter 4""",2022-08-28 21:24:29,play,0,,HTML 5,8,2022-08
+hou,olu,AR,"House of Cards: Season 1: ""Chapter 4""",2022-08-28 21:24:29,play,0,,HTML 5,8,2022-08
+formula 1,UMA,AR,Formula 1: Drive to Survive,2022-08-28 14:30:00,select,0,title_results,iPhone,8,2022-08
+bri,UMA,AR,Bridgerton,2022-08-28 03:19:26,play,0,title_results,HTML 5,8,2022-08
+bri,UMA,AR,,2022-08-28 03:19:26,play,0,title_results,HTML 5,8,2022-08
+house of,olu,AR,"House of Cards: Season 1: ""Chapter 1""",2022-08-27 20:27:45,play,0,,HTML 5,8,2022-08
+house of,olu,AR,"House of Cards: Season 1: ""Chapter 1""",2022-08-27 20:27:45,play,0,,HTML 5,8,2022-08
+stalin,olu,AR,"How to Become a Tyrant: Limited Series: ""Rule Forever""",2022-08-26 18:37:53,play,0,title_results,HTML 5,8,2022-08
+stalin,olu,AR,"How to Become a Tyrant: Limited Series: ""Rule Forever""",2022-08-26 18:37:53,play,0,title_results,HTML 5,8,2022-08
+docum,olu,AR,,2022-08-26 18:37:12,select,0,suggestion_results,HTML 5,8,2022-08
+docum,olu,AR,Documentales históricos,2022-08-26 18:37:12,select,0,suggestion_results,HTML 5,8,2022-08
+docum,olu,AR,Documentales,2022-08-26 18:36:41,select,0,suggestion_results,HTML 5,8,2022-08
+docum,olu,AR,,2022-08-26 18:36:41,select,0,suggestion_results,HTML 5,8,2022-08
+blac,olu,AR,"Black Mirror: Season 1: ""Fifteen Million Merits""",2022-08-15 20:51:40,play,0,title_results,iPhone,8,2022-08
+blac,olu,AR,"Black Mirror: Season 1: ""Fifteen Million Merits""",2022-08-15 20:04:39,play,0,title_results,iPhone,8,2022-08
+blac,olu,AR,Black Mirror,2022-08-15 20:04:32,select,0,title_results,iPhone,8,2022-08
+black mirror,olu,AR,Black Mirror,2022-08-09 11:06:08,select,0,title_results,iPhone,8,2022-08
+re,UMA,AR,"Rebelde Way: Temporada 1: ""Episode 45""",2022-08-06 03:31:33,play,0,,HTML 5,8,2022-08
+re,UMA,AR,"Rebelde Way: Temporada 1: ""Episode 45""",2022-08-06 03:31:33,play,0,,HTML 5,8,2022-08
+re,UMA,AR,"Rebelde Way: Temporada 1: ""Episode 39""",2022-08-06 03:29:31,play,0,title_results,HTML 5,8,2022-08
+re,UMA,AR,"Rebelde Way: Temporada 1: ""Episode 39""",2022-08-06 03:29:31,play,0,title_results,HTML 5,8,2022-08
+go,UMA,AR,GO! Vive a tu manera,2022-08-03 16:21:41,select,0,title_results,iPhone,8,2022-08
+el dilema de las ,olu,AR,El dilema de las redes sociales,2022-08-02 21:33:11,play,0,,HTML 5,8,2022-08
+after we collided,UMA,AR,Tú me entiendes,2022-08-02 11:43:45,select,0,title_results,iPhone,8,2022-08
+atr,UMA,AR,A través de mi ventana,2022-08-01 12:49:58,play,0,title_results,HTML 5,8,2022-08
+atr,UMA,AR,Through My Window,2022-08-01 12:49:58,play,0,title_results,HTML 5,8,2022-08
+je,UMA,AR,Jane The Virgin,2022-07-16 03:57:16,select,0,title_results,iPhone,7,2022-07
+je,UMA,AR,Jane The Virgin,2022-07-16 03:48:42,select,0,title_results,iPhone,7,2022-07
+jen,UMA,AR,Jane The Virgin,2022-07-16 03:20:32,select,0,title_results,iPhone,7,2022-07
+,UMA,AR,"Boo, Bitch",2022-07-16 02:55:06,select,0,prequery_results,iPhone,7,2022-07
+the um,UMA,AR,The Umbrella Academy,2022-07-16 02:54:21,select,0,title_results,iPhone,7,2022-07
+boo,UMA,AR,"Boo, Bitch",2022-07-16 02:53:31,select,0,title_results,iPhone,7,2022-07
+almodovar,olu,AR,,2022-07-09 01:56:36,select,0,suggestion_results,HTML 5,7,2022-07
+almodovar,olu,AR,Pedro Almodóvar,2022-07-09 01:56:36,select,0,suggestion_results,HTML 5,7,2022-07
+space,olu,AR,Return to Space,2022-07-02 18:09:05,add,0,title_results,iPhone,7,2022-07
+space,olu,AR,Return to Space,2022-07-02 18:09:02,select,0,title_results,iPhone,7,2022-07
+space,olu,AR,The Midnight Gospel,2022-07-02 18:08:53,select,0,title_results,iPhone,7,2022-07
+space,olu,AR,,2022-07-02 18:08:03,add,0,title_results,iPhone,7,2022-07
+space,olu,AR,Space Force,2022-07-02 18:07:49,select,0,title_results,iPhone,7,2022-07
+el futuro,SIL,AR,"The Future Of: Season 1: ""Skyscrapers""",2022-07-01 00:48:51,play,0,title_results,iPad,7,2022-07
+el futuro,SIL,AR,El futuro de...,2022-07-01 00:48:31,select,0,title_results,iPad,7,2022-07
+bl,olu,AR,"Black Mirror: Season 4: ""Hang the DJ""",2022-06-30 03:26:26,play,0,title_results,HTML 5,6,2022-06
+bl,olu,AR,"Black Mirror: Season 4: ""Hang the DJ""",2022-06-30 03:26:26,play,0,title_results,HTML 5,6,2022-06
+paul,olu,AR,Paul Rudd,2022-06-29 21:06:54,select,0,suggestion_results,HTML 5,6,2022-06
+paul,olu,AR,,2022-06-29 21:06:54,select,0,suggestion_results,HTML 5,6,2022-06
+paul,olu,AR,,2022-06-29 21:06:53,select,0,suggestion_results,HTML 5,6,2022-06
+paul,olu,AR,Paul Rudd,2022-06-29 21:06:53,select,0,suggestion_results,HTML 5,6,2022-06
+paul,olu,AR,,2022-06-29 21:06:52,select,0,suggestion_results,HTML 5,6,2022-06
+paul,olu,AR,Paul Rudd,2022-06-29 21:06:52,select,0,suggestion_results,HTML 5,6,2022-06
+paul,olu,AR,,2022-06-29 21:06:49,select,0,suggestion_results,HTML 5,6,2022-06
+paul,olu,AR,Paul Rudd,2022-06-29 21:06:49,select,0,suggestion_results,HTML 5,6,2022-06
+the summer tirne,UMA,AR,Barbie: Escuela de princesas,2022-06-24 01:29:46,select,0,title_results,iPhone,6,2022-06
+heart,olu,AR,Heartstopper,2022-06-20 15:09:41,play,0,title_results,HTML 5,6,2022-06
+heart,olu,AR,,2022-06-20 15:09:41,play,0,title_results,HTML 5,6,2022-06
+he,olu,AR,Heartstopper,2022-06-20 14:30:21,select,0,title_results,iPhone,6,2022-06
+ell,UMA,AR,Él es así,2022-06-07 12:19:02,select,0,title_results,iPhone,6,2022-06
+alex,UMA,AR,Alexa & Katie,2022-06-06 16:14:42,select,0,title_results,iPhone,6,2022-06
+love ,UMA,AR,"Love, Death & Robots",2022-06-05 01:04:00,select,0,title_results,iPhone,6,2022-06
+el juego,olu,AR,The Coldest Game,2022-06-04 00:35:46,add,0,title_results,HTML 5,6,2022-06
+el juego,olu,AR,The Coldest Game,2022-06-04 00:35:46,add,0,title_results,HTML 5,6,2022-06
+el juego,olu,AR,The Game,2022-06-04 00:34:40,add,0,title_results,HTML 5,6,2022-06
+el juego,olu,AR,El juego,2022-06-04 00:34:40,add,0,title_results,HTML 5,6,2022-06
+the oa,UMA,AR,The OA,2022-06-02 00:55:51,select,0,title_results,iPhone,6,2022-06
+13,UMA,AR,"13 Reasons Why: Season 1: ""Tape 1, Side A""",2022-05-30 00:32:06,play,0,,HTML 5,5,2022-05
+13,UMA,AR,"13 Reasons Why: Season 1: ""Tape 1, Side A""",2022-05-30 00:32:06,play,0,,HTML 5,5,2022-05
+13,UMA,AR,"13 Reasons Why: Season 1: ""Tape 1, Side A""",2022-05-29 19:46:01,play,0,title_results,HTML 5,5,2022-05
+13,UMA,AR,"13 Reasons Why: Season 1: ""Tape 1, Side A""",2022-05-29 19:46:01,play,0,title_results,HTML 5,5,2022-05
+diario ,olu,AR,El diario de la princesa 2,2022-05-15 18:10:43,select,0,suggestion_results,HTML 5,5,2022-05
+diario ,olu,AR,The Princess Diaries 2: Royal Engagement,2022-05-15 18:10:43,select,0,suggestion_results,HTML 5,5,2022-05
+documentales argentina,olu,AR,"Nisman: El fiscal, la presidenta y el espía",2022-05-13 16:07:22,add,0,suggestion_results,HTML 5,5,2022-05
+documentales argentina,olu,AR,Documentales argentinos,2022-05-13 16:07:10,select,0,suggestion_results,HTML 5,5,2022-05
+documentales argentina,olu,AR,,2022-05-13 16:07:10,select,0,suggestion_results,HTML 5,5,2022-05
+documentales,olu,AR,,2022-05-13 16:06:43,select,0,suggestion_results,HTML 5,5,2022-05
+documentales,olu,AR,Documentales históricos,2022-05-13 16:06:43,select,0,suggestion_results,HTML 5,5,2022-05
+de epoca,olu,AR,,2022-05-11 23:57:25,select,0,suggestion_results,HTML 5,5,2022-05
+de epoca,olu,AR,De época,2022-05-11 23:57:25,select,0,suggestion_results,HTML 5,5,2022-05
+de epoca,olu,AR,,2022-05-11 23:57:22,select,0,suggestion_results,HTML 5,5,2022-05
+de epoca,olu,AR,Películas de época,2022-05-11 23:57:22,select,0,suggestion_results,HTML 5,5,2022-05
+,UMA,AR,Rebelde Way,2022-05-04 20:33:46,select,0,prequery_results,iPhone,5,2022-05
+leonardo sba,SIL,AR,Hoy se arregla el mundo,2022-04-10 22:06:49,play,0,title_results,iPad,4,2022-04
+leonardo sba,SIL,AR,Hoy se arregla el mundo,2022-04-10 22:06:37,select,0,title_results,iPad,4,2022-04
+freaks ,olu,AR,Freaks and Geeks,2022-04-04 23:06:36,select,0,suggestion_results,HTML 5,4,2022-04
+coda,SIL,AR,Coda,2022-03-30 00:40:41,play,0,title_results,iPad,3,2022-03
+coda,SIL,AR,Coda,2022-03-30 00:40:29,select,0,title_results,iPad,3,2022-03
+mi pr,olu,AR,The Kissing Booth 2,2022-03-26 18:35:33,play,0,suggestion_results,HTML 5,3,2022-03
+mi pr,olu,AR,El stand de los besos,2022-03-25 22:15:48,play,0,suggestion_results,HTML 5,3,2022-03
+mi pr,olu,AR,Mi primer amor,2022-03-25 22:13:25,select,0,suggestion_results,HTML 5,3,2022-03
+los escritores de ,olu,AR,Escritores de la libertad,2022-03-25 12:12:22,add,0,title_results,HTML 5,3,2022-03
+jue,SIL,AR,Los juegos del destino,2022-03-24 23:59:45,play,0,title_results,iPad,3,2022-03
+jue,SIL,AR,Los juegos del destino,2022-03-24 23:59:42,select,0,title_results,iPad,3,2022-03
+jue,SIL,AR,Stranger Things 3: El juego,2022-03-24 23:59:29,select,0,title_results,iPad,3,2022-03
+arquitectura,SIL,AR,"The World's Most Extraordinary Homes: Season 2 Part B: ""Spain""",2022-03-23 01:08:57,play,0,title_results,iPad,3,2022-03
+arquitectura,SIL,AR,The World's Most Extraordinary Homes,2022-03-23 01:08:48,select,0,title_results,iPad,3,2022-03
+,SIL,AR,Los diarios de Andy Warhol,2022-03-16 00:47:31,select,0,prequery_results,iPad,3,2022-03
+andy,olu,AR,"The Andy Warhol Diaries: Limited Series: ""Smoke Signals""",2022-03-14 12:35:16,play,0,title_results,HTML 5,3,2022-03
+los ,SIL,AR,"The Andy Warhol Diaries: Limited Series: ""15 Minutes""",2022-03-14 01:30:18,play,0,title_results,iPad,3,2022-03
+los ,SIL,AR,Los diarios de Andy Warhol,2022-03-14 01:30:04,select,0,title_results,iPad,3,2022-03
+ski,SIL,AR,Skins,2022-03-13 23:47:53,select,0,title_results,iPad,3,2022-03
+andy,SIL,AR,"The Andy Warhol Diaries: Limited Series: ""Smoke Signals""",2022-03-12 00:08:53,play,0,title_results,iPad,3,2022-03
+andy,SIL,AR,Los diarios de Andy Warhol,2022-03-12 00:08:46,select,0,title_results,iPad,3,2022-03
+bo,olu,AR,,2022-03-02 21:07:32,play,0,title_results,HTML 5,3,2022-03
+that,olu,AR,,2022-03-02 21:06:16,select,0,suggestion_results,HTML 5,3,2022-03
+anne,olu,AR,One Day,2022-02-25 01:59:26,play,0,title_results,HTML 5,2,2022-02
+madres,olu,AR,Parallel Mothers,2022-02-20 21:14:25,play,0,title_results,HTML 5,2,2022-02
+cielo,UMA,AR,,2022-02-19 03:22:47,play,0,title_results,HTML 5,2,2022-02
+no,SIL,AR,No,2022-02-18 01:38:37,play,0,title_results,iPad,2,2022-02
+no,SIL,AR,No,2022-02-18 01:38:27,select,0,title_results,iPad,2,2022-02
+almo,olu,AR,Women on the Verge of a Nervous Breakdown,2022-02-16 17:09:08,play,0,title_results,HTML 5,2,2022-02
+doc,olu,AR,Inside Job,2022-02-11 13:08:22,play,0,suggestion_results,HTML 5,2,2022-02
+doc,olu,AR,,2022-02-11 13:07:49,select,0,suggestion_results,HTML 5,2,2022-02
+doc,olu,AR,,2022-02-11 13:07:48,select,0,suggestion_results,HTML 5,2,2022-02
+doc,olu,AR,,2022-02-11 13:06:43,select,0,suggestion_results,HTML 5,2,2022-02
+doc,olu,AR,,2022-02-11 13:06:42,select,0,suggestion_results,HTML 5,2,2022-02
+ell,UMA,AR,He's All That,2022-02-07 22:32:07,play,0,,HTML 5,2,2022-02
+shell,olu,ES,Bombshell,2022-02-05 22:21:27,add,0,title_results,iPhone,2,2022-02
+shell,olu,ES,El escándalo,2022-02-05 22:21:26,select,0,title_results,iPhone,2,2022-02
+franke,olu,ES,Frankenstein,2022-02-05 22:21:08,select,0,suggestion_results,iPhone,2,2022-02
+irgull,olu,ES,The Woman in the Window,2022-02-05 22:20:32,select,0,title_results,iPhone,2,2022-02
+irgull,olu,ES,Pride & Prejudice,2022-02-05 22:20:23,select,0,title_results,iPhone,2,2022-02
+irgull,olu,ES,Orgullo y prejuicio,2022-02-05 22:20:10,select,0,title_results,iPhone,2,2022-02
+the si,olu,ES,"The Sinner: Season 4: Percy: ""Part IV""",2022-02-05 19:17:51,play,0,title_results,iPhone,2,2022-02
+the si,olu,ES,The Sinner,2022-02-05 19:17:43,select,0,title_results,iPhone,2,2022-02
+monte,olu,ES,Monte Carlo,2022-02-05 01:05:45,play,0,title_results,iPhone,2,2022-02
+monte,olu,ES,Monte Carlo,2022-02-05 01:05:42,select,0,title_results,iPhone,2,2022-02
+misery,olu,ES,Misery,2022-02-04 20:31:29,select,0,suggestion_results,iPhone,2,2022-02
+one day,olu,ES,"Expiación, deseo y pecado",2022-02-04 20:16:54,select,0,suggestion_results,iPhone,2,2022-02
+one day,olu,ES,One Day,2022-02-04 20:16:06,select,0,suggestion_results,iPhone,2,2022-02
+one day,olu,ES,Día de lluvia en Nueva York,2022-02-04 20:15:52,select,0,title_results,iPhone,2,2022-02
+after li,olu,ES,,2022-02-04 20:15:29,add,0,title_results,iPhone,2,2022-02
+after li,olu,ES,After Life: Más allá de mi mujer,2022-02-04 20:15:26,select,0,title_results,iPhone,2,2022-02
+frida,olu,ES,Frida,2022-02-04 20:12:16,select,0,title_results,iPhone,2,2022-02
+fantastic mr,olu,ES,Don't Look Up,2022-02-01 11:16:41,select,0,title_results,iPhone,2,2022-02
+fantastic mr,olu,ES,Call Me by Your Name,2022-02-01 11:16:35,add,0,title_results,iPhone,2,2022-02
+fantastic mr,olu,ES,Call Me by Your Name,2022-02-01 11:15:41,select,0,title_results,iPhone,2,2022-02
+fantastic mr,olu,ES,Don't Look Up,2022-02-01 11:15:33,select,0,title_results,iPhone,2,2022-02
+fantastic mr,olu,ES,Lady Bird,2022-02-01 11:15:29,select,0,title_results,iPhone,2,2022-02
+fantastic mr,olu,ES,A Rainy Day in New York,2022-02-01 11:15:17,select,0,title_results,iPhone,2,2022-02
+fantastic mr,olu,ES,Mujercitas,2022-02-01 11:14:54,select,0,title_results,iPhone,2,2022-02
+fantas,olu,ES,Destino: La saga Winx,2022-02-01 11:14:40,select,0,title_results,iPhone,2,2022-02
+fantas,olu,ES,Destino: La saga Winx,2022-02-01 11:14:00,select,0,title_results,iPhone,2,2022-02
+go ,UMA,AR,GO! La fiesta inolvidable,2022-01-29 16:40:08,play,0,title_results,iPhone,1,2022-01
+go ,UMA,AR,GO! La fiesta inolvidable,2022-01-29 16:40:00,select,0,title_results,iPhone,1,2022-01
+,UMA,AR,Barbie Life in the Dreamhouse,2022-01-29 03:24:58,select,0,prequery_results,iPhone,1,2022-01
+,UMA,AR,"Barbie Life in the Dreamhouse: Season 1: ""Best of Dreamhouse""",2022-01-29 03:24:58,play,0,prequery_results,iPhone,1,2022-01
+barbie,UMA,AR,"Ever After High: Spring Unsprung: ""Series Special: Spring Unsprung""",2022-01-28 14:58:03,play,0,,HTML 5,1,2022-01
+barbie,UMA,AR,"Welcome to Ever After High: ""Welcome to Ever After""",2022-01-28 02:34:44,play,0,title_results,HTML 5,1,2022-01
+barbie,UMA,AR,,2022-01-28 02:31:57,play,0,title_results,HTML 5,1,2022-01
+barbie,UMA,AR,"Welcome to Ever After High: ""Welcome to Ever After""",2022-01-28 02:31:23,play,0,,HTML 5,1,2022-01
+ponio,UMA,AR,Ponyo,2022-01-26 16:10:24,play,0,,HTML 5,1,2022-01
+the hot ,olu,ES,The Hot Chick,2022-01-26 00:40:54,select,0,suggestion_results,iPhone,1,2022-01
+365,UMA,AR,365 días,2022-01-22 04:59:08,play,0,title_results,iPhone,1,2022-01
+365,UMA,AR,365 días,2022-01-22 04:59:05,select,0,title_results,iPhone,1,2022-01
+la casa de los espiritus,SIL,AR,La chica danesa,2022-01-22 01:27:55,play,0,title_results,iPad,1,2022-01
+la casa de los espiritus,SIL,AR,La chica danesa,2022-01-22 01:27:51,select,0,title_results,iPad,1,2022-01
+,SIL,AR,Don't Look Up,2022-01-22 00:52:55,play,0,prequery_results,iPad,1,2022-01
+,SIL,AR,Don't Look Up,2022-01-22 00:52:51,select,0,prequery_results,iPad,1,2022-01
+juando ,UMA,AR,"Too Hot to Handle: Season 3: ""No Pleasure Island""",2022-01-20 22:19:26,play,0,,HTML 5,1,2022-01
+andre,UMA,BR,Las ventajas de ser invisible,2022-01-18 18:49:37,select,0,suggestion_results,iPad,1,2022-01
+andre,UMA,BR,Andrew Garfield,2022-01-18 18:49:32,select,0,suggestion_results,iPad,1,2022-01
+jake,UMA,BR,Soldado anónimo,2022-01-18 18:49:12,select,0,title_results,iPad,1,2022-01
+jake,UMA,BR,The Guilty,2022-01-18 18:49:01,select,0,suggestion_results,iPad,1,2022-01
+jake,UMA,BR,Jake Gyllenhaal,2022-01-18 18:48:58,select,0,suggestion_results,iPad,1,2022-01
+jake,UMA,BR,El diablo a todas horas,2022-01-18 18:48:51,select,0,title_results,iPad,1,2022-01
+gib,UMA,BR,Se levanta el viento,2022-01-15 23:26:01,play,0,title_results,iPad,1,2022-01
+gib,UMA,BR,Se levanta el viento,2022-01-15 23:25:51,select,0,title_results,iPad,1,2022-01
+gib,UMA,BR,El recuerdo de Marnie,2022-01-15 23:25:22,select,0,title_results,iPad,1,2022-01
+gib,UMA,BR,El mundo secreto de Arrietty,2022-01-15 23:24:55,select,0,suggestion_results,iPad,1,2022-01
+gib,UMA,BR,Studio Ghibli,2022-01-15 23:24:46,select,0,suggestion_results,iPad,1,2022-01
+gibl,UMA,BR,Only Yesterday,2022-01-15 20:42:48,select,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,La princesa Mononoke,2022-01-15 02:52:13,play,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,La princesa Mononoke,2022-01-15 02:52:11,select,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,Princess Mononoke,2022-01-15 02:48:14,add,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,La princesa Mononoke,2022-01-15 02:48:06,select,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,A Whisker Away,2022-01-15 02:47:59,add,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,Amor de gata,2022-01-15 02:47:47,select,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,Only Yesterday,2022-01-15 02:47:40,add,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,Recuerdos del ayer,2022-01-15 02:47:31,select,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,The Tale of The Princess Kaguya,2022-01-15 02:47:27,add,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,El cuento de la princesa Kaguya,2022-01-15 02:47:18,select,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,"Si algo me pasa, los quiero",2022-01-15 02:47:06,select,0,title_results,iPad,1,2022-01
+gibl,UMA,BR,Earwig y la bruja,2022-01-15 02:46:55,select,0,title_results,iPad,1,2022-01
+burlesque,UMA,BR,Burlesque,2022-01-15 01:54:38,select,0,suggestion_results,iPhone,1,2022-01
+el v,UMA,BR,El viaje de Chihiro,2022-01-11 22:54:00,select,0,title_results,iPad,1,2022-01
+david,SIL,BR,Dunas,2022-01-11 21:30:20,select,0,suggestion_results,iPad,1,2022-01
+david,SIL,BR,David Fincher,2022-01-11 21:30:08,select,0,suggestion_results,iPad,1,2022-01
+wes ander,SIL,BR,Wes Anderson,2022-01-11 21:28:34,select,0,suggestion_results,iPad,1,2022-01
+los gue,olu,AR,,2022-01-04 02:01:45,select,0,suggestion_results,HTML 5,1,2022-01
+love,UMA,AR,365 Days,2022-01-04 01:57:03,play,0,,HTML 5,1,2022-01
+love,UMA,AR,Fifty Shades of Grey,2022-01-04 01:53:23,play,0,,HTML 5,1,2022-01
+bi,UMA,AR,"Big Mouth: Season 1: ""Ejaculation""",2022-01-01 15:24:52,play,0,,HTML 5,1,2022-01
+ku,UMA,AR,Kung Fu Panda,2021-12-30 04:44:30,play,0,title_results,iPhone,12,2021-12
+ku,UMA,AR,Kung Fu Panda,2021-12-30 04:44:26,select,0,title_results,iPhone,12,2021-12
+ku,UMA,AR,Kung Fu Panda 2,2021-12-30 04:44:20,select,0,title_results,iPhone,12,2021-12
+the wind,olu,AR,The Wind Rises,2021-12-29 22:48:35,add,0,title_results,iPhone,12,2021-12
+the wind,olu,AR,The Wind Rises,2021-12-29 22:46:56,select,0,title_results,iPhone,12,2021-12
+la carro,UMA,AR,Esperando la carroza,2021-12-29 22:23:28,play,0,,HTML 5,12,2021-12
+about time,olu,AR,About Time,2021-12-29 16:47:02,select,0,title_results,iPhone,12,2021-12
+rein,olu,AR,What's Your Number?,2021-12-29 00:39:13,play,0,title_results,HTML 5,12,2021-12
+rein,olu,AR,Monte Carlo,2021-12-29 00:37:45,play,0,,HTML 5,12,2021-12
+andrew,olu,AR,,2021-12-28 21:08:07,select,0,suggestion_results,HTML 5,12,2021-12
+no mires ,SIL,AR,No miren arriba,2021-12-27 01:58:10,play,0,title_results,iPad,12,2021-12
+no mires ,SIL,AR,No miren arriba,2021-12-27 01:58:04,select,0,title_results,iPad,12,2021-12
+win,olu,AR,Destino: La saga Winx,2021-12-26 16:29:36,select,0,title_results,iPhone,12,2021-12
+blade,olu,AR,Blade Runner 2049,2021-12-21 12:25:23,play,0,,HTML 5,12,2021-12
+blade,olu,AR,Blade Runner 2049,2021-12-21 00:52:35,play,0,title_results,HTML 5,12,2021-12
+eli,olu,AR,"Elite Short Stories: Phillipe Caye Felipe: Season 1: ""Part 1""",2021-12-20 22:56:53,play,0,,HTML 5,12,2021-12
+zodiac,olu,AR,El diablo a todas horas,2021-12-20 15:26:16,select,0,title_results,iPhone,12,2021-12
+zodiac,olu,AR,Dragón Rojo,2021-12-20 15:26:07,select,0,title_results,iPhone,12,2021-12
+zodiac,olu,AR,Hannibal,2021-12-20 15:26:04,select,0,title_results,iPhone,12,2021-12
+zodiac,olu,AR,Dragón Rojo,2021-12-20 15:25:58,select,0,title_results,iPhone,12,2021-12
+la,olu,AR,,2021-12-16 22:16:14,play,0,title_results,HTML 5,12,2021-12
+the atranger,UMA,AR,"The Stranger: Limited Series: ""Episode 8""",2021-12-14 18:25:11,play,0,title_results,iPhone,12,2021-12
+the atranger,UMA,AR,No hables con extraños,2021-12-14 18:25:04,select,0,title_results,iPhone,12,2021-12
+ku,UMA,AR,Kung Fu Panda 2,2021-12-09 01:09:09,play,0,,HTML 5,12,2021-12
+scream,olu,AR,"Scream: Season 1: ""Pilot""",2021-12-08 16:51:37,play,0,title_results,iPhone,12,2021-12
+scream,olu,AR,"Scream: Season 2: ""I Know What You Did Last Summer""",2021-12-08 16:49:57,play,0,title_results,iPhone,12,2021-12
+scream,olu,AR,Scream,2021-12-08 16:49:52,select,0,title_results,iPhone,12,2021-12
+scr,olu,AR,,2021-12-08 16:47:37,add,0,title_results,iPhone,12,2021-12
+scr,olu,AR,Scream,2021-12-08 16:47:23,select,0,title_results,iPhone,12,2021-12
+ku,UMA,AR,Kung Fu Panda 3,2021-12-08 02:18:01,play,0,,HTML 5,12,2021-12
+3,olu,AR,"3%: Season 1: ""Chapter 01: Cubes""",2021-12-01 02:41:17,play,0,title_results,iPhone,12,2021-12
+3,olu,AR,3 %,2021-12-01 02:41:13,select,0,title_results,iPhone,12,2021-12
+grey,UMA,AR,"Grey's Anatomy: Season 1: ""A Hard Day's Night""",2021-11-30 13:32:19,play,0,,HTML 5,11,2021-11
+malas noticias,olu,AR,Inside Job,2021-11-29 19:44:45,add,0,title_results,HTML 5,11,2021-11
+ku,UMA,AR,Kung Fu Panda,2021-11-29 02:19:02,play,0,,HTML 5,11,2021-11
+the big ,olu,AR,The Big Short,2021-11-28 00:59:18,select,0,suggestion_results,HTML 5,11,2021-11
+mid,olu,AR,,2021-11-23 12:00:18,play,0,,HTML 5,11,2021-11
+love,olu,AR,Love Hard,2021-11-22 00:20:19,play,0,,HTML 5,11,2021-11
+viol,olu,AR,All The Bright Places,2021-11-21 02:32:55,play,0,,HTML 5,11,2021-11
+maid,olu,AR,What's Your Number?,2021-11-18 15:11:36,add,0,title_results,HTML 5,11,2021-11
+maid,olu,AR,Friendzone,2021-11-18 15:11:02,add,0,title_results,HTML 5,11,2021-11
+maid,olu,AR,,2021-11-18 15:08:43,add,0,title_results,HTML 5,11,2021-11
+shes all,olu,AR,She's All That,2021-11-14 00:56:58,select,0,suggestion_results,HTML 5,11,2021-11
+adam ,olu,AR,The Trial of the Chicago 7,2021-11-12 19:57:56,add,0,suggestion_results,HTML 5,11,2021-11
+adam ,olu,AR,,2021-11-12 19:57:44,select,0,suggestion_results,HTML 5,11,2021-11
+jonny deep,olu,AR,Hannibal,2021-11-12 19:57:28,add,0,title_results,HTML 5,11,2021-11
+jonny deep,olu,AR,Sherlock Holmes,2021-11-12 19:57:21,add,0,title_results,HTML 5,11,2021-11
+jonny deep,olu,AR,The Judge,2021-11-12 19:57:17,add,0,title_results,HTML 5,11,2021-11
+ginny,UMA,AR,"Ginny & Georgia: Season 1: ""Happy Sweet Sixteen, Jerk""",2021-11-05 21:32:26,play,0,,HTML 5,11,2021-11
+ginny,UMA,AR,"Ginny & Georgia: Season 1: ""Happy Sweet Sixteen, Jerk""",2021-11-05 20:54:34,play,0,,HTML 5,11,2021-11
+a traves de mi ventana,UMA,AR,A través de mi ventana,2021-11-02 01:27:29,select,0,title_results,iPhone,11,2021-11
+atraves de mi ventana ,UMA,AR,Confesiones de una chica invisible,2021-11-02 01:22:44,select,0,title_results,iPhone,11,2021-11
+atraves de mi ventana ,UMA,AR,Ginny y Georgia,2021-11-02 01:22:34,select,0,title_results,iPhone,11,2021-11
+atraves de mi ventana ,UMA,AR,"Si algo me pasa, los quiero",2021-11-02 01:22:18,select,0,title_results,iPhone,11,2021-11
+atraves de mi ventana ,UMA,AR,Headspace: Relaja tu mente,2021-11-02 01:22:09,select,0,title_results,iPhone,11,2021-11
+la dimensión,olu,AR,,2021-10-26 13:48:59,select,0,suggestion_results,HTML 5,10,2021-10
+that se,olu,AR,,2021-10-26 11:18:09,play,0,,HTML 5,10,2021-10
+that se,olu,AR,"Avatar: The Last Airbender: Book 1: ""The Boy in the Iceberg""",2021-10-26 11:15:45,play,0,,HTML 5,10,2021-10
+that se,olu,AR,,2021-10-26 11:14:44,select,0,suggestion_results,HTML 5,10,2021-10
+timo,olu,AR,The King,2021-10-25 21:30:53,play,0,,HTML 5,10,2021-10
+timo,olu,AR,,2021-10-25 21:30:44,select,0,suggestion_results,HTML 5,10,2021-10
+get ,olu,AR,Get Out,2021-10-25 21:29:32,select,0,suggestion_results,HTML 5,10,2021-10
+esperando la carroza ,UMA,AR,Esperando la carroza,2021-10-24 01:41:56,select,0,title_results,iPhone,10,2021-10
+esperando la carroza ,UMA,AR,Corazón loco,2021-10-24 01:41:39,select,0,title_results,iPhone,10,2021-10
+los pir,UMA,AR,Esperando la carroza,2021-10-24 01:40:57,select,0,title_results,iPhone,10,2021-10
+el cadaverde la novia,UMA,AR,Howl’s Moving Castle,2021-10-19 01:13:11,play,0,,HTML 5,10,2021-10
+am,olu,AR,"Black Mirror: Season 5: ""Striking Vipers""",2021-10-17 00:44:59,play,0,,HTML 5,10,2021-10
+am,olu,AR,,2021-10-17 00:44:34,select,0,suggestion_results,HTML 5,10,2021-10
+love death ,olu,AR,"Love, Death & Robots: Volume 1: ""ZIMA BLUE""",2021-10-11 14:45:16,play,0,,HTML 5,10,2021-10
+love death ,olu,AR,"Love, Death & Robots: Volume 1: ""SONNIE'S EDGE""",2021-10-11 14:41:22,play,0,,HTML 5,10,2021-10
+bil,olu,AR,Billions,2021-09-30 04:21:41,select,0,title_results,iPhone,9,2021-09
+emil,UMA,AR,Emily en París,2021-09-25 12:21:47,select,0,title_results,iPhone,9,2021-09
+sex,olu,AR,Sex Education,2021-09-17 20:01:23,select,0,title_results,iPhone,9,2021-09
+gladia,olu,AR,Clash of the Titans,2021-09-17 15:46:31,play,0,,HTML 5,9,2021-09
+gladia,olu,AR,Clash of the Titans,2021-09-17 13:53:05,add,0,title_results,HTML 5,9,2021-09
+baby,UMA,AR,Baby Driver,2021-07-24 01:33:04,select,0,title_results,iPhone,7,2021-07
+el ultimo crime,UMA,AR,The Last Days of American Crime,2021-07-24 01:25:41,select,0,title_results,iPhone,7,2021-07
+crime,UMA,AR,,2021-07-24 01:25:04,select,0,suggestion_results,iPhone,7,2021-07
+crime,UMA,AR,Above Suspicion,2021-07-24 01:24:53,select,0,title_results,iPhone,7,2021-07
+crime,UMA,AR,,2021-07-24 01:24:48,select,0,title_results,iPhone,7,2021-07
+gre,UMA,AR,,2021-07-06 01:50:53,select,0,title_results,iPhone,7,2021-07
+la caba,UMA,AR,Restoring the Shack,2021-07-01 17:06:33,select,0,title_results,iPhone,7,2021-07
+moxie,UMA,AR,Moxie,2021-06-26 01:44:58,play,0,title_results,HTML 5,6,2021-06
+mo,UMA,AR,,2021-05-31 14:02:12,play,0,,HTML 5,5,2021-05
+mo,UMA,AR,,2021-05-30 21:58:03,play,0,,HTML 5,5,2021-05
+moder,UMA,AR,"Modern Family: Season 4: ""Party Crasher""",2021-05-18 17:36:38,play,0,,HTML 5,5,2021-05
+moder,UMA,AR,,2021-05-18 17:25:25,play,0,,HTML 5,5,2021-05
+moder,UMA,AR,,2021-05-18 16:14:08,play,0,,HTML 5,5,2021-05
+gil,UMA,AR,,2021-05-18 16:00:44,play,0,,HTML 5,5,2021-05
+gi,UMA,AR,,2021-05-03 20:10:47,play,0,,HTML 5,5,2021-05
+gi,UMA,AR,,2021-05-03 17:31:43,play,0,,HTML 5,5,2021-05
+gi,UMA,AR,"Ginny & Georgia: Season 1: ""It's a Face Not a Mask""",2021-05-03 15:30:47,play,0,,HTML 5,5,2021-05
+gi,UMA,AR,,2021-05-03 14:36:41,play,0,,HTML 5,5,2021-05
+gi,UMA,AR,,2021-05-03 02:29:44,play,0,,HTML 5,5,2021-05
+gi,UMA,AR,,2021-05-03 01:30:21,select,0,,iPhone,5,2021-05
+the st,UMA,AR,,2021-05-02 14:58:21,play,0,,HTML 5,5,2021-05
+the st,UMA,AR,,2021-05-02 14:35:27,play,0,,HTML 5,5,2021-05
+re,UMA,AR,"Rebelde Way: Temporada 2: ""Episode 154""",2021-04-27 13:52:32,play,0,,HTML 5,4,2021-04
+re,UMA,AR,,2021-04-27 03:22:59,play,0,,HTML 5,4,2021-04
+lady,UMA,AR,,2021-04-27 02:32:36,play,0,,HTML 5,4,2021-04
+the st,UMA,AR,"The Stranger: Limited Series: ""Episode 1""",2021-04-22 16:59:39,play,0,,HTML 5,4,2021-04
+the st,UMA,AR,"The Stranger: Limited Series: ""Episode 1""",2021-04-22 16:13:50,play,0,,HTML 5,4,2021-04
+sele,SIL,AR,,2021-04-20 18:54:24,select,0,,iPhone,4,2021-04
+luis,UMA,AR,,2021-04-18 14:35:16,play,0,,HTML 5,4,2021-04
+umbre,UMA,AR,,2021-04-01 03:24:17,select,0,,iPhone,4,2021-04
+sk,UMA,AR,"Skins: Vol. 1: ""Tony""",2021-03-25 01:33:43,play,0,,HTML 5,3,2021-03
+sk,UMA,AR,,2021-03-24 18:12:25,play,0,,HTML 5,3,2021-03

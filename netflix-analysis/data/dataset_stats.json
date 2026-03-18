@@ -1,0 +1,98 @@
+{
+  "dataset_info": {
+    "title": "Netflix Viewing Analysis Dataset (2020-2026)",
+    "description": "Análisis de patrones de consumo de Netflix para tres usuarios durante el período 2020-2026",
+    "period": "2020-01-01 to 2026-03-07",
+    "profiles": [
+      "olu",
+      "UMA",
+      "SIL"
+    ],
+    "total_views": 19757,
+    "total_searches": 1265,
+    "last_updated": "2026-03-18"
+  },
+  "viewing_activity": {
+    "total_records": 19757,
+    "columns": [
+      "Duration",
+      "Start Time",
+      "Profile Name",
+      "Country",
+      "Bookmark",
+      "Latest Bookmark",
+      "Supplemental Video Type",
+      "Attributes",
+      "Device Type",
+      "Title",
+      "Month",
+      "YearMonth",
+      "DayOfWeek",
+      "DayOfWeek_Num",
+      "Hour",
+      "Date",
+      "Quarter",
+      "Duration_Minutes",
+      "Duration_Hours",
+      "Content_Type",
+      "Series_Name",
+      "Country_Clean",
+      "Time_Category"
+    ],
+    "date_range": {
+      "start": "2020-01-01 04:44:35",
+      "end": "2026-03-07 02:13:47"
+    },
+    "by_profile": {
+      "olu": {
+        "views": 4317,
+        "total_hours": 1154.2,
+        "avg_session_minutes": 16.0
+      },
+      "UMA": {
+        "views": 14382,
+        "total_hours": 3862.9,
+        "avg_session_minutes": 16.1
+      },
+      "SIL": {
+        "views": 1058,
+        "total_hours": 496.3,
+        "avg_session_minutes": 28.1
+      }
+    },
+    "by_year": {
+      "2020": 5241,
+      "2021": 3524,
+      "2022": 2370,
+      "2023": 2192,
+      "2024": 3126,
+      "2025": 3058,
+      "2026": 246
+    },
+    "by_content_type": {
+      "Serie": 18078,
+      "Película": 1186,
+      "Trailer/Clip": 493
+    }
+  },
+  "search_history": {
+    "total_records": 1265,
+    "columns": [
+      "Query Typed",
+      "Profile Name",
+      "Country Iso Code",
+      "Displayed Name",
+      "Utc Timestamp",
+      "Action",
+      "Is Kids",
+      "Section",
+      "Device",
+      "Month",
+      "YearMonth"
+    ],
+    "date_range": {
+      "start": "2021-03-24 18:12:25",
+      "end": "2026-03-01 22:23:04"
+    }
+  }
+}
